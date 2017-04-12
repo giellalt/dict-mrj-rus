@@ -4,6 +4,643 @@
 <e><lg><l pos="N">аварцы</l><stg><st>аварцы</st></stg></lg><mg><tg xml:lang="rus"><t>толстый блин из квашеного теста (иногда двухслойный), лепешка</t></tg></mg><mg><tg xml:lang="rus"><t>толстый блин из пресного теста (иногда с вареным картофелем)</t></tg></mg></e>
 <e><lg><l pos="N">аваха</l><stg><st>аваха</st></stg></lg><mg><tg xml:lang="rus"><t>чешуя (орехов, зерен), шелуха</t></tg><xg><x>пӱкш аваха</x><xt>плюска</xt></xg><xg><x>пырса аваха</x><xt>стручок гороха</xt></xg></mg></e>
 <e><lg><l pos="N">авызи</l><stg><st>авызи</st></stg></lg><mg><tg xml:lang="rus"><t>неряха; неряшливый, нечистоплотный (чаще о человеке)</t></tg></mg></e>
+<e><lg><l pos="N">алавӓрӓш</l><stg><st>алавӓрӓш</st></stg><ref>алавӓрӓш, цӹвӹ вӓрӓш</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ястреб-тетеревятник</t></tg></mg></e>
+<e><lg><l pos="N">цӹвӹ вӓрӓш</l><stg><st>цӹвӹ вӓрӓш</st></stg><ref>алавӓрӓш, цӹвӹ вӓрӓш</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ястреб-тетеревятник</t></tg></mg></e>
+<e><lg><l pos="N">алагек</l><stg><st>алагек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>сойка</t></tg></mg></e>
+<e><lg><l pos="N">алангышуды</l><stg><st>алангышуды</st></stg><ref>алангышуды, каракъялаш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>прострел, сонтрава</t></tg></mg></e>
+<e><lg><l pos="N">каракъялаш</l><stg><st>каракъялаш</st></stg><ref>алангышуды, каракъялаш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>прострел, сонтрава</t></tg></mg></e>
+<e><lg><l pos="N">ала шиштӹ</l><stg><st>ала шиштӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>большой пестрый дятел</t></tg></mg></e>
+<e><lg><l pos="N">алашоэ</l><stg><st>алашоэ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>гоголь (птица)</t></tg></mg></e>
+<e><lg><l pos="N">алой</l><stg><st>алой</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>алоэ</t></tg></mg></e>
+<e><lg><l pos="N">алык мӧрйӓрӹм</l><stg><st>алык мӧрйӓрӹм</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>овсяница луговая</t></tg></mg></e>
+<e><lg><l pos="N">алык орави</l><stg><st>алык орави</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>овсянка-дубровник, иволга</t></tg></mg></e>
+<e><lg><l pos="N">ама</l><stg><st>ама</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>выдра</t></tg></mg></e>
+<e><lg><l pos="N">амашкек</l><stg><st>амашкек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>пеночка-весничка</t></tg></mg></e>
+<e><lg><l pos="N">амыж кек</l><stg><st>амыж кек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>камышевка-барсучок</t></tg></mg><mg><tg xml:lang="rus"><t>камышевка вертлявая</t></tg></mg></e>
+<e><lg><l pos="N">андыж</l><stg><st>андыж</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>девясил</t></tg></mg></e>
+<e><lg><l pos="N">арашӹнгӓвонгы</l><stg><st>арашӹнгӓвонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мухомор</t></tg></mg></e>
+<e><lg><l pos="N">аргек</l><stg><st>аргек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>чирок (дикая утка)</t></tg></mg></e>
+<e><lg><l pos="N">арйӹлмӹ</l><stg><st>арйӹлмӹ</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>язычок (отросток мягкого нёба)</t></tg></mg></e>
+<e><lg><l pos="N">аярлӹпӹ</l><stg><st>аярлӹпӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>божья коровка</t></tg></mg></e>
+<e><lg><l pos="N">ӓмӹрт</l><stg><st>ӓмӹрт</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>черный коршун</t></tg></mg></e>
+<e><lg><l pos="N">ӓнис</l><stg><st>ӓнис</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>укроп</t></tg></mg><mg><tg xml:lang="rus"><t>сорт яблок (анис)</t></tg></mg></e>
+<e><lg><l pos="N">ӓптӓнъял</l><stg><st>ӓптӓнъял</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>бальзамин</t></tg></mg></e>
+<e><lg><l pos="N">ӓпшӓткек</l><stg><st>ӓпшӓткек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>пеночка-теньковка</t></tg></mg></e>
+<e><lg><l pos="N">важынкапшангы</l><stg><st>важынкапшангы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>уховертка (насекомое)</t></tg></mg></e>
+<e><lg><l pos="N">ваштыраш шуды</l><stg><st>ваштыраш шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мятлик луговой</t></tg></mg></e>
+<e><lg><l pos="N">вӓргӹ</l><stg><st>вӓргӹ</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>почки</t></tg></mg></e>
+<e><lg><l pos="N">вӓтӹгӹне</l><stg><st>вӓтӹгӹне</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>молочай</t></tg></mg></e>
+<e><lg><l pos="N">вуйгалашка</l><stg><st>вуйгалашка</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>череп</t></tg></mg></e>
+<e><lg><l pos="N">вырди лӹпӹ</l><stg><st>вырди лӹпӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>бражник</t></tg></mg></e>
+<e><lg><l pos="N">вӹд ӓнгӹремшӹ</l><stg><st>вӹд ӓнгӹремшӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>водяной паук</t></tg></mg></e>
+<e><lg><l pos="N">вӹдвусы</l><stg><st>вӹдвусы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>водяная трава (плющ); хвощ топяной, приречный</t></tg></mg></e>
+<e><lg><l pos="N">вӹдиӓ</l><stg><st>вӹдиӓ</st></stg></lg><mg><i>(миф.)</i><tg xml:lang="rus"><t>водяной</t></tg></mg></e>
+<e><lg><l pos="N">вӹд каля</l><stg><st>вӹд каля</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>водяная крыса</t></tg></mg></e>
+<e><lg><l pos="N">вӹдкыва</l><stg><st>вӹдкыва</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>жук-плавунец</t></tg></mg></e>
+<e><lg><l pos="N">вӹдпарсын</l><stg><st>вӹдпарсын</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>водоросль, тина</t></tg></mg></e>
+<e><lg><l pos="N">вӹдпыйи</l><stg><st>вӹдпыйи</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>пиявка</t></tg></mg></e>
+<e><lg><l pos="N">вӹдӱшкӱж</l><stg><st>вӹдӱшкӱж</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>выпь</t></tg></mg></e>
+<e><lg><l pos="N">вӹдцӹвӹ</l><stg><st>вӹдцӹвӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>водяная курочка, камышница</t></tg></mg></e>
+<e><lg><l pos="N">вӹдӹлтӹш шуды</l><stg><st>вӹдӹлтӹш шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>плющ, вьюнок</t></tg></mg></e>
+<e><lg><l pos="N">вӹдъял</l><stg><st>вӹдъял</st></stg></lg><mg><i>(геогр.)</i><tg xml:lang="rus"><t>залив</t></tg></mg></e>
+<e><lg><l pos="N">вӹлӹдӹрвӹ</l><stg><st>вӹлӹдӹрвӹ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>свинарь, свинуха (гриб)</t></tg></mg></e>
+<e><lg><l pos="N">вӹрзи</l><stg><st>вӹрзи</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>стриж черный</t></tg></mg></e>
+<e><lg><l pos="N">вӹтлӓнгӹ</l><stg><st>вӹтлӓнгӹ</st></stg><ref>вӹтлӓнгӹ, вӹрлӓнгӹ</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>трясогузка</t></tg></mg></e>
+<e><lg><l pos="N">вӹрлӓнгӹ</l><stg><st>вӹрлӓнгӹ</st></stg><ref>вӹтлӓнгӹ, вӹрлӓнгӹ</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>трясогузка</t></tg></mg></e>
+<e><lg><l pos="N">жававарсын</l><stg><st>жававарсын</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>водоросль</t></tg></mg></e>
+<e><lg><l pos="N">жавагаржангы</l><stg><st>жавагаржангы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>череда</t></tg></mg></e>
+<e><lg><l pos="N">жавашуды</l><stg><st>жавашуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>череда, водяной перец</t></tg></mg></e>
+<e><lg><l pos="N">иӓ</l><stg><st>иӓ</st></stg></lg><mg><i>(миф.)</i><tg xml:lang="rus"><t>водяной, домовой</t></tg></mg><mg><tg xml:lang="rus"><t>нечистая сила, нечистый дух</t></tg></mg></e>
+<e><lg><l pos="N">иӓвонгы</l><stg><st>иӓвонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>гриб-поганка</t></tg></mg></e>
+<e><lg><l pos="N">иӓвыч</l><stg><st>иӓвыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>болиголов крапчатый</t></tg></mg></e>
+<e><lg><l pos="N">иӓшуды</l><stg><st>иӓшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>плаун булавовидный</t></tg></mg></e>
+<e><lg><l pos="N">изивӧчӹж</l><stg><st>изивӧчӹж</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>брусника</t></tg></mg></e>
+<e><lg><l pos="N">изигек</l><stg><st>изигек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>овсянка</t></tg></mg></e>
+<e><lg><l pos="N">изи лагы</l><stg><st>изи лагы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>белобровник</t></tg></mg></e>
+<e><lg><l pos="N">изи метелцӓ</l><stg><st>изи метелцӓ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мятлик луговой</t></tg></mg></e>
+<e><lg><l pos="N">изи нарынзы пеледӹш</l><stg><st>изи нарынзы пеледӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>лютик едкий</t></tg></mg></e>
+<e><lg><l pos="N">изиохырец</l><stg><st>изиохырец</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>огурец; огуречный</t></tg></mg></e>
+<e><lg><l pos="N">имӓн писӓн</l><stg><st>имӓн писӓн</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чертополох</t></tg></mg></e>
+<e><lg><l pos="N">имӓн шаптыр</l><stg><st>имӓн шаптыр</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>крыжовник</t></tg></mg></e>
+<e><lg><l pos="N">имнивармы</l><stg><st>имнивармы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>слепень олений</t></tg></mg></e>
+<e><lg><l pos="N">ирмызы</l><stg><st>ирмызы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>серая куропатка</t></tg></mg></e>
+<e><lg><l pos="N">ирсасна</l><stg><st>ирсасна</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>кабан</t></tg></mg></e>
+<e><lg><l pos="N">иршагыртем</l><stg><st>иршагыртем</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>сорокопут серый</t></tg></mg></e>
+<e><lg><l pos="N">ирыржа</l><stg><st>ирыржа</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>овсюг</t></tg></mg></e>
+<e><lg><l pos="N">йӓктӹ калявонгы</l><stg><st>йӓктӹ калявонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>масленок желтый</t></tg></mg></e>
+<e><lg><l pos="N">йӓктӹ рижӹк</l><stg><st>йӓктӹ рижӹк</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>рыжик боровой, сосновый</t></tg></mg></e>
+<e><lg><l pos="N">йӓнгӓрмӱкш</l><stg><st>йӓнгӓрмӱкш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>пчела-плотник</t></tg></mg></e>
+<e><lg><l pos="N">йӓнгӓршуды</l><stg><st>йӓнгӓршуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>вереск обыкновенный</t></tg></mg></e>
+<e><lg><l pos="N">йӓнзӹк</l><stg><st>йӓнзӹк</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>мошонка</t></tg></mg></e>
+<e><lg><l pos="N">йӓргӹльӹ</l><stg><st>йӓргӹльӹ</st></stg><ref>йӓргӹльӹ, йӓргельӹ</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>лунь болотный (птица)</t></tg></mg></e>
+<e><lg><l pos="N">йӓргельӹ</l><stg><st>йӓргельӹ</st></stg><ref>йӓргӹльӹ, йӓргельӹ</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>лунь болотный (птица)</t></tg></mg></e>
+<e><lg><l hid="Hom1">йӓрӹм</l><stg><st>йӓрӹм</st></stg></lg><mg><i>(ткац.)</i><tg xml:lang="rus"><t>мера холста в семь аршин</t></tg></mg></e>
+<e><lg><l pos="N">йод</l><stg><st>йод</st></stg><ref>йод, йоды</ref></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>иод</t></tg></mg></e>
+<e><lg><l pos="N">йоды</l><stg><st>йоды</st></stg><ref>йод, йоды</ref></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>иод</t></tg></mg></e>
+<e><lg><l pos="N">йожга шуды</l><stg><st>йожга шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>тростник, вейник</t></tg></mg></e>
+<e><lg><l pos="N">йоропишуды</l><stg><st>йоропишуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>зверобой</t></tg></mg></e>
+<e><lg><l pos="N">йымынтӓгӓ</l><stg><st>йымынтӓгӓ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>бекас (птица)</t></tg></mg></e>
+<e><lg><l pos="N">йӹлгӓ пеледӹш</l><stg><st>йӹлгӓ пеледӹш</st></stg><ref>йӹлгӓ пеледӹш, йӹлгӓвеледӹш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подснежник</t></tg></mg></e>
+<e><lg><l pos="N">йӹлгӓвеледӹш</l><stg><st>йӹлгӓвеледӹш</st></stg><ref>йӹлгӓ пеледӹш, йӹлгӓвеледӹш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подснежник</t></tg></mg></e>
+<e><lg><l pos="N">йӹлмӹвӓр</l><stg><st>йӹлмӹвӓр</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>мягкая часть темени</t></tg></mg></e>
+<e><lg><l pos="N">йӹнгӹл пеледӹш</l><stg><st>йӹнгӹл пеледӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>колокольчики (цветы)</t></tg></mg></e>
+<e><lg><l pos="N">иӹпкӓн шуды</l><stg><st>иӹпкӓн шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сорная трава</t></tg></mg></e>
+<e><lg><l pos="N">кавшта лӹпӹ</l><stg><st>кавшта лӹпӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>бабочка-капустница</t></tg></mg></e>
+<e><lg><l pos="N">кадама</l><stg><st>кадама</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>пескарь</t></tg></mg></e>
+<e><lg><l pos="N">каля вӓрӓш</l><stg><st>каля вӓрӓш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>пустельга (хищная птица сем. соколиных)</t></tg></mg></e>
+<e><lg><l pos="N">кӓляиӓш</l><stg><st>кӓляиӓш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ласка</t></tg></mg></e>
+<e><lg><l pos="N">каля каржангы</l><stg><st>каля каржангы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>незабудка полевая, липучка</t></tg></mg></e>
+<e><lg><l pos="N">каля нуж</l><stg><st>каля нуж</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мелколистная жгучая крапива</t></tg></mg></e>
+<e><lg><l pos="N">каля пырса</l><stg><st>каля пырса</st></stg><ref>каля пырса, калявырса</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мышиный горошек</t></tg></mg></e>
+<e><lg><l pos="N">калявырса</l><stg><st>калявырса</st></stg><ref>каля пырса, калявырса</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мышиный горошек</t></tg></mg></e>
+<e><lg><l pos="N">каля шӹльӹ</l><stg><st>каля шӹльӹ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>овсяница</t></tg></mg></e>
+<e><lg><l pos="N">каля ымыла</l><stg><st>каля ымыла</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>клевер шуршащий</t></tg></mg></e>
+<e><lg><l pos="N">каля ыржа</l><stg><st>каля ыржа</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>тимофеевка</t></tg></mg></e>
+<e><lg><l pos="N">караквӓтӹ</l><stg><st>караквӓтӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>жулан (певчая птица из семейства сорокопутов)</t></tg></mg></e>
+<e><lg><l pos="N">каракпыч</l><stg><st>каракпыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>купырь</t></tg></mg></e>
+<e><lg><l pos="N">караксӹнзӓ</l><stg><st>караксӹнзӓ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>вороний глаз</t></tg></mg></e>
+<e><lg><l pos="N">каракъялаш</l><stg><st>каракъялаш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>прострел, сон-трава; Ард. колокольчики</t></tg></mg></e>
+<e><lg><l pos="N">карас</l><stg><st>карас</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>карась</t></tg></mg></e>
+<e><lg><l pos="N">карачкы</l><stg><st>карачкы</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>горячка (болезнь)</t></tg></mg></e>
+<e><lg><l pos="N">каргыж шӹгӹ</l><stg><st>каргыж шӹгӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>короед</t></tg></mg></e>
+<e><lg><l pos="N">каржангывуйгек</l><stg><st>каржангывуйгек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>щегол</t></tg></mg></e>
+<e><lg><l pos="N">касы</l><stg><st>касы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>бекас (птица), крохаль</t></tg></mg></e>
+<e><lg><l pos="N">катар</l><stg><st>катар</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>катар</t></tg></mg></e>
+<e><lg><l pos="N">качы понгы</l><stg><st>качы понгы</st></stg><ref>качы понгы, качывонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>горькуша</t></tg></mg></e>
+<e><lg><l pos="N">качывонгы</l><stg><st>качывонгы</st></stg><ref>качы понгы, качывонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>горькуша</t></tg></mg></e>
+<e><lg><l pos="N">качы ушман</l><stg><st>качы ушман</st></stg><ref>качы ушман, качушман</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>редька</t></tg></mg></e>
+<e><lg><l pos="N">качушман</l><stg><st>качушман</st></stg><ref>качы ушман, качушман</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>редька</t></tg></mg></e>
+<e><lg><l pos="N">кашарвӱ</l><stg><st>кашарвӱ</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>клык</t></tg></mg></e>
+<e><lg><l pos="N">кӓвӓ</l><stg><st>кӓвӓ</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>лоно</t></tg></mg></e>
+<e><lg><l pos="N">кӓзӓлявеледӹш</l><stg><st>кӓзӓлявеледӹш</st></stg><ref>кӓзӓлявеледӹш, кӓзӓляшуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>селезеночник</t></tg></mg></e>
+<e><lg><l pos="N">кӓзӓляшуды</l><stg><st>кӓзӓляшуды</st></stg><ref>кӓзӓлявеледӹш, кӓзӓляшуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>селезеночник</t></tg></mg></e>
+<e><lg><l hid="Hom2">кӓрш</l><stg><st>кӓрш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>дергач, коростель</t></tg></mg></e>
+<e><lg><l pos="N">кек комбы</l><stg><st>кек комбы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>дикий гусь</t></tg></mg></e>
+<e><lg><l pos="N">кек лыды</l><stg><st>кек лыды</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>дикая утка</t></tg></mg></e>
+<e><lg><l pos="N">келдевачмольы</l><stg><st>келдевачмольы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>верховка (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">келдегол</l><stg><st>келдегол</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>частиковая рыба</t></tg></mg></e>
+<e><lg><l pos="N">кергӹ</l><stg><st>кергӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>горный (черный) дятел</t></tg></mg></e>
+<e><lg><l pos="N">кикӓн</l><stg><st>кикӓн</st></stg><ref>кикӓн, кикӓн важ</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чемерица</t></tg></mg></e>
+<e><lg><l pos="N">кикӓн важ</l><stg><st>кикӓн важ</st></stg><ref>кикӓн, кикӓн важ</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чемерица</t></tg></mg></e>
+<e><lg><l pos="N">киндӹвыч</l><stg><st>киндӹвыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>один из видов борщевика (стебель растения); пастернак; бедренец-камнеломка</t></tg></mg></e>
+<e><lg><l pos="N">кирвӱкш</l><stg><st>кирвӱкш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>грецкий орех</t></tg></mg></e>
+<e><lg><l pos="N">клевер</l><stg><st>клевер</st></stg><ref>клевер, клевӹр</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>клевер; клеверный</t></tg></mg></e>
+<e><lg><l pos="N">клевӹр</l><stg><st>клевӹр</st></stg><ref>клевер, клевӹр</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>клевер; клеверный</t></tg></mg></e>
+<e><lg><l pos="N">коговисӓн</l><stg><st>коговисӓн</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чертополох</t></tg></mg></e>
+<e><lg><l hid="Hom1">коговуйванды</l><stg><st>коговуйванды</st></stg></lg><mg><i>(ткац.)</i><tg xml:lang="rus"><t>пришва (передний валик в ткацком станке)</t></tg></mg></e>
+<e><lg><l hid="Hom2">коговуйванды</l><stg><st>коговуйванды</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>стрекоза (насекомое)</t></tg></mg></e>
+<e><lg><l pos="N">коговушты</l><stg><st>коговушты</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>рубец (часть желудка жвачных животных)</t></tg></mg></e>
+<e><lg><l pos="N">когогек лыды</l><stg><st>когогек лыды</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>кряква (утка)</t></tg></mg></e>
+<e><lg><l pos="N">когомӧр</l><stg><st>когомӧр</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>клубника; садовая земляника</t></tg></mg></e>
+<e><lg><l pos="N">когоохырец</l><stg><st>когоохырец</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>тыква; тыквенный</t></tg></mg></e>
+<e><lg><l pos="N">кого пармы</l><stg><st>кого пармы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>слепень бычий</t></tg></mg></e>
+<e><lg><l pos="N">кого пӧчӹж</l><stg><st>кого пӧчӹж</st></stg><ref>кого пӧчӹж, коговӧчӹж</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>клюква; клюквенный</t></tg></mg></e>
+<e><lg><l pos="N">коговӧчӹж</l><stg><st>коговӧчӹж</st></stg><ref>кого пӧчӹж, коговӧчӹж</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>клюква; клюквенный</t></tg></mg></e>
+<e><lg><l pos="N">кожмӧр</l><stg><st>кожмӧр</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>марешки</t></tg></mg></e>
+<e><lg><l pos="N">кож рижӹк</l><stg><st>кож рижӹк</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>рыжик-горькуха; рыжик еловый</t></tg></mg></e>
+<e><lg><l pos="N">козналу</l><stg><st>козналу</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>кости запястья; игральные кости</t></tg></mg></e>
+<e><lg><l pos="N">колвӓрӓш</l><stg><st>колвӓрӓш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>скопа</t></tg></mg></e>
+<e><lg><l pos="N">колгучкыж</l><stg><st>колгучкыж</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>орлан-белохвост</t></tg></mg></e>
+<e><lg><l pos="N">коллоэц кек</l><stg><st>коллоэц кек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>зимородок</t></tg></mg></e>
+<e><lg><l pos="N">колшӹре</l><stg><st>колшӹре</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>чайка</t></tg></mg></e>
+<e><lg><l pos="N">комбы кучкыж</l><stg><st>комбы кучкыж</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>орел-беркут</t></tg></mg></e>
+<e><lg><l pos="N">комбылогер</l><stg><st>комбылогер</st></stg></lg><mg><i>(ткац.)</i><tg xml:lang="rus"><t>поперечина в лубковом круге при навивании ниток</t></tg></mg></e>
+<e><lg><l pos="N">косаргол</l><stg><st>косаргол</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>чехонь</t></tg></mg></e>
+<e><lg><l hid="Hom2">котивач</l><stg><st>котивач</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>зубчатка красная</t></tg></mg></e>
+<e><lg><l pos="N">котивыч</l><stg><st>котивыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>тмин</t></tg></mg></e>
+<e><lg><l pos="N">котилу-пилу</l><stg><st>котилу-пилу</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>иволга</t></tg></mg></e>
+<e><lg><l pos="N">кӧтӧрмӓ</l><stg><st>кӧтӧрмӓ</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>молочница (болезнь полости рта)</t></tg></mg></e>
+<e><lg><l pos="N">кӧтӧрмӓ шуды</l><stg><st>кӧтӧрмӓ шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>герань луговая</t></tg></mg></e>
+<e><lg><l pos="N">крузы</l><stg><st>крузы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>груздь</t></tg></mg></e>
+<e><lg><l pos="N">куатшуды</l><stg><st>куатшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>девясил</t></tg></mg></e>
+<e><lg><l pos="N">кугимокш</l><stg><st>кугимокш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чага, трутовый гриб</t></tg></mg></e>
+<e><lg><l pos="N">куги понгы</l><stg><st>куги понгы</st></stg><ref>куги понгы, куги калявонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подберезовик</t></tg></mg></e>
+<e><lg><l pos="N">куги калявонгы</l><stg><st>куги калявонгы</st></stg><ref>куги понгы, куги калявонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подберезовик</t></tg></mg></e>
+<e><lg><l pos="N">куги рижӹк</l><stg><st>куги рижӹк</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>волнушка</t></tg></mg></e>
+<e><lg><l pos="N">куги тара</l><stg><st>куги тара</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>березовые сережки</t></tg></mg></e>
+<e><lg><l hid="Hom2">куды</l><stg><st>куды</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>место, послед</t></tg></mg></e>
+<e><lg><l pos="N">кужынер</l><stg><st>кужынер</st></stg><ref>кужынер, кужнер</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>комар; комариный</t></tg></mg></e>
+<e><lg><l pos="N">кужнер</l><stg><st>кужнер</st></stg><ref>кужынер, кужнер</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>комар; комариный</t></tg></mg></e>
+<e><lg><l pos="N">кужы пырса</l><stg><st>кужы пырса</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>фасоль</t></tg></mg></e>
+<e><lg><l pos="N">кукугынзалаванды</l><stg><st>кукугынзалаванды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>одуванчик</t></tg></mg></e>
+<e><lg><l pos="N">кукуняня</l><stg><st>кукуняня</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>весенние побеги хвоща</t></tg></mg></e>
+<e><lg><l pos="N">куку пеледӹш</l><stg><st>куку пеледӹш</st></stg><ref>куку пеледӹш, кукувеледӹш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>горицвет, кукушкины слезки</t></tg></mg></e>
+<e><lg><l pos="N">кукувеледӹш</l><stg><st>кукувеледӹш</st></stg><ref>куку пеледӹш, кукувеледӹш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>горицвет, кукушкины слезки</t></tg></mg></e>
+<e><lg><l pos="N">кукуруза</l><stg><st>кукуруза</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>кукуруза; кукурузный</t></tg></mg></e>
+<e><lg><l pos="N">куку шуды</l><stg><st>куку шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ятрышник пятнистый</t></tg></mg></e>
+<e><lg><l pos="N">куп лагы</l><stg><st>куп лагы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>водяной воробей, оляпка</t></tg></mg></e>
+<e><lg><l pos="N">купорос</l><stg><st>купорос</st></stg></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>купорос; купоросный</t></tg></mg></e>
+<e><lg><l pos="N">куптӹрвонгы</l><stg><st>куптӹрвонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>козляк</t></tg></mg></e>
+<e><lg><l pos="N">куп цӹвӹ</l><stg><st>куп цӹвӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>болотная курочка</t></tg></mg></e>
+<e><lg><l pos="N">курныгучкыж</l><stg><st>курныгучкыж</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>черный ворон</t></tg></mg></e>
+<e><lg><l pos="N">курныж</l><stg><st>курныж</st></stg><ref>курныж, курмыж</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>черный ворон</t></tg></mg></e>
+<e><lg><l pos="N">курмыж</l><stg><st>курмыж</st></stg><ref>курныж, курмыж</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>черный ворон</t></tg></mg></e>
+<e><lg><l pos="N">кучы</l><stg><st>кучы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>аскарида</t></tg></mg></e>
+<e><lg><l pos="N">кушкыш</l><stg><st>кушкыш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>растительность, растение</t></tg></mg></e>
+<e><lg><l pos="N">кушмышуды</l><stg><st>кушмышуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>алоэ</t></tg></mg></e>
+<e><lg><l pos="N">кӱӓнгмӓш</l><stg><st>кӱӓнгмӓш</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>мастит (грудей, вымени)</t></tg></mg></e>
+<e><lg><l pos="N">кӱвуй</l><stg><st>кӱвуй</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>подкаменщик обыкновенный (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">кывылзы</l><stg><st>кывылзы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>глухарка, купалуха</t></tg></mg></e>
+<e><lg><l pos="N">кыжвек ханг</l><stg><st>кыжвек ханг</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>мочевой пузырь</t></tg></mg></e>
+<e><lg><l pos="N">кыже</l><stg><st>кыже</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>бекас (птица)</t></tg></mg></e>
+<e><lg><l pos="N">кыйырвеледӹш</l><stg><st>кыйырвеледӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>льянка обыкновенная; синяк, фацелия</t></tg></mg></e>
+<e><lg><l pos="N">кымыжвуй</l><stg><st>кымыжвуй</st></stg><ref>кымыжвуй, кымыж вуян кӹшкӹ</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>уж</t></tg></mg></e>
+<e><lg><l pos="N">кымыж вуян кӹшкӹ</l><stg><st>кымыж вуян кӹшкӹ</st></stg><ref>кымыжвуй, кымыж вуян кӹшкӹ</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>уж</t></tg></mg></e>
+<e><lg><l pos="N">кЫптыри понгы</l><stg><st>кЫптыри понгы</st></stg><ref>кЫптыри понгы, кыптыривонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сморчок</t></tg></mg></e>
+<e><lg><l pos="N">кыптыривонгы</l><stg><st>кыптыривонгы</st></stg><ref>кЫптыри понгы, кыптыривонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сморчок</t></tg></mg></e>
+<e><lg><l pos="N">кыпшыльы</l><stg><st>кыпшыльы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>сойка</t></tg></mg></e>
+<e><lg><l pos="N">кыргельӹ</l><stg><st>кыргельӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>чеглок (птица)</t></tg></mg></e>
+<e><lg><l pos="N">кырмызак</l><stg><st>кырмызак</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>вальдшнеп</t></tg></mg></e>
+<e><lg><l pos="N">кӹдӓл лу</l><stg><st>кӹдӓл лу</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>поясничные позвонки, кости таза</t></tg></mg></e>
+<e><lg><l pos="N">кӹдӹр</l><stg><st>кӹдӹр</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>тетерев (косач); тетеревиный</t></tg></mg></e>
+<e><lg><l pos="N">кӹдӹр вӓрӓш</l><stg><st>кӹдӹр вӓрӓш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ястреб-тетеревятник</t></tg></mg></e>
+<e><lg><l pos="N">кӹжгӹнер</l><stg><st>кӹжгӹнер</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>дубонос (птица)</t></tg></mg></e>
+<e><lg><l pos="N">кӹнӓ шуды</l><stg><st>кӹнӓ шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>бальзамин (растение, из корней которого делаются румяна)</t></tg></mg></e>
+<e><lg><l pos="N">кӹнервуй</l><stg><st>кӹнервуй</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>локтевой сустав</t></tg></mg></e>
+<e><lg><l pos="N">кӹртнилӱлӹш</l><stg><st>кӹртнилӱлӹш</st></stg><ref>кӹртнилӱлӹш, кӹртнилӱдӹш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>папоротник; папоротниковый</t></tg></mg></e>
+<e><lg><l pos="N">кӹртнилӱдӹш</l><stg><st>кӹртнилӱдӹш</st></stg><ref>кӹртнилӱлӹш, кӹртнилӱдӹш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>папоротник; папоротниковый</t></tg></mg></e>
+<e><lg><l pos="N">кӹрш</l><stg><st>кӹрш</st></stg><ref>кӹрш, кӹрӹш</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ерш</t></tg></mg></e>
+<e><lg><l pos="N">кӹрӹш</l><stg><st>кӹрӹш</st></stg><ref>кӹрш, кӹрӹш</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ерш</t></tg></mg></e>
+<e><lg><l pos="N">кӹцкӹ шӹнгӓ</l><stg><st>кӹцкӹ шӹнгӓ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>плодовые мушки (дрозофилы)</t></tg></mg></e>
+<e><lg><l pos="N">кӹшедӹк</l><stg><st>кӹшедӹк</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>чибис, пигалица</t></tg></mg></e>
+<e><lg><l pos="N">кӹшкӹ</l><stg><st>кӹшкӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>змея</t></tg></mg></e>
+<e><lg><l pos="N">кӹшкӹвонгы</l><stg><st>кӹшкӹвонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>бледная поганка</t></tg></mg></e>
+<e><lg><l pos="N">кӹшкӹвуй</l><stg><st>кӹшкӹвуй</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>нарыв на пальцах; ногтоеда</t></tg></mg></e>
+<e><lg><l pos="N">кӹшкӹгӧтӧрмӓ</l><stg><st>кӹшкӹгӧтӧрмӓ</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>дифтерия</t></tg></mg></e>
+<e><lg><l pos="N">кӹшкӹйӹлмӹ</l><stg><st>кӹшкӹйӹлмӹ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>гусиный лук</t></tg></mg></e>
+<e><lg><l hid="Hom1">кӹшкӹсӹнзӓ</l><stg><st>кӹшкӹсӹнзӓ</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>опухоль на пальце</t></tg></mg></e>
+<e><lg><l pos="N">лавал</l><stg><st>лавал</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>лещ</t></tg></mg></e>
+<e><lg><l pos="N">лагы</l><stg><st>лагы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>дрозд, дрозд-рябинник</t></tg></mg></e>
+<e><lg><l pos="N">ладын шуды</l><stg><st>ладын шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>копытень европейский</t></tg></mg></e>
+<e><lg><l pos="N">лазыра чӓй</l><stg><st>лазыра чӓй</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>луговой чай</t></tg></mg></e>
+<e><lg><l pos="N">лазыра шуды</l><stg><st>лазыра шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мокрица-звездчатка</t></tg></mg></e>
+<e><lg><l pos="N">ландыш</l><stg><st>ландыш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ландыш</t></tg></mg></e>
+<e><lg><l pos="N">лапштан</l><stg><st>лапштан</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>лопух; листья репейника</t></tg></mg></e>
+<e><lg><l hid="Hom2">лачы</l><stg><st>лачы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>сизоворонка</t></tg></mg></e>
+<e><lg><l pos="N">лентӓгучы</l><stg><st>лентӓгучы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>солитер; ленточные черви (паразиты человека и животных)</t></tg></mg></e>
+<e><lg><l pos="N">лепкӓ лу</l><stg><st>лепкӓ лу</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>лобная кость</t></tg></mg></e>
+<e><lg><l pos="N">лепӹ</l><stg><st>лепӹ</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>селезенка</t></tg></mg></e>
+<e><lg><l pos="N">лешӓ</l><stg><st>лешӓ</st></stg></lg><mg><i>(миф.)</i><tg xml:lang="rus"><t>леший</t></tg></mg></e>
+<e><lg><l pos="N">логердамга</l><stg><st>логердамга</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>мягкое небо</t></tg></mg></e>
+<e><lg><l pos="N">ломыж пармы</l><stg><st>ломыж пармы</st></stg><ref>ломыж пармы, ломыжвармы</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>серый слепень</t></tg></mg></e>
+<e><lg><l pos="N">ломыжвармы</l><stg><st>ломыжвармы</st></stg><ref>ломыж пармы, ломыжвармы</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>серый слепень</t></tg></mg></e>
+<e><lg><l pos="N">лочкымпеледӹш</l><stg><st>лочкымпеледӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>смолевка-хлопушка</t></tg></mg></e>
+<e><lg><l pos="N">лу вим</l><stg><st>лу вим</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>костный мозг</t></tg></mg></e>
+<e><lg><l pos="N">лӱкӹ шуды</l><stg><st>лӱкӹ шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>водоросль</t></tg></mg></e>
+<e><lg><l pos="N">лӱлпӹгадама</l><stg><st>лӱлпӹгадама</st></stg><ref>лӱлпӹгадама, лӱлпӹгол</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>гольян речной</t></tg></mg></e>
+<e><lg><l pos="N">лӱлпӹгол</l><stg><st>лӱлпӹгол</st></stg><ref>лӱлпӹгадама, лӱлпӹгол</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>гольян речной</t></tg></mg></e>
+<e><lg><l pos="N">лӱлӹш</l><stg><st>лӱлӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>споры папоротника</t></tg></mg></e>
+<e><lg><l pos="N">лый</l><stg><st>лый</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>куница</t></tg></mg></e>
+<e><lg><l pos="N">лыконг</l><stg><st>лыконг</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>цапля серая</t></tg></mg></e>
+<e><lg><l pos="N">лыме</l><stg><st>лыме</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>мошка, мошкара, мелкие двукрылые насекомые</t></tg></mg></e>
+<e><lg><l pos="N">лымегож</l><stg><st>лымегож</st></stg><ref>лымегож, лӹмегож</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>можжевельник</t></tg></mg></e>
+<e><lg><l pos="N">лӹмегож</l><stg><st>лӹмегож</st></stg><ref>лымегож, лӹмегож</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>можжевельник</t></tg></mg></e>
+<e><lg><l pos="N">лым кек</l><stg><st>лым кек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>пуночка</t></tg></mg></e>
+<e><lg><l pos="N">лыпшпонгыш</l><stg><st>лыпшпонгыш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>манжетка (цветы)</t></tg></mg></e>
+<e><lg><l pos="N">лӹпӹшукш</l><stg><st>лӹпӹшукш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>личинки (гусеницы) бабочек</t></tg></mg></e>
+<e><lg><l pos="N">лӹштӓнпӹнчӹ</l><stg><st>лӹштӓнпӹнчӹ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>лиственница</t></tg></mg></e>
+<e><lg><l pos="N">льыртык</l><stg><st>льыртык</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ласточка городская</t></tg></mg></e>
+<e><lg><l pos="N">ляпцӓкӓшукш</l><stg><st>ляпцӓкӓшукш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>плоские черви (низший тип)</t></tg></mg></e>
+<e><lg><l pos="N">ляркӓ</l><stg><st>ляркӓ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ласточка береговая</t></tg></mg></e>
+<e><lg><l pos="N">мамык вуй</l><stg><st>мамык вуй</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>одуванчик</t></tg></mg></e>
+<e><lg><l pos="N">марьявонгы</l><stg><st>марьявонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>лисички</t></tg></mg></e>
+<e><lg><l pos="N">марьявуй</l><stg><st>марьявуй</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>полевой хвощ</t></tg></mg></e>
+<e><lg><l pos="N">марьявыч</l><stg><st>марьявыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>съедобный стебель свербиги восточной</t></tg></mg></e>
+<e><lg><l pos="N">марьясергӓ</l><stg><st>марьясергӓ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>бересклет</t></tg></mg></e>
+<e><lg><l pos="N">маслыгаля</l><stg><st>маслыгаля</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>мышь-малютка</t></tg></mg></e>
+<e><lg><l pos="N">мацалавач</l><stg><st>мацалавач</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>синица длиннохвостая, или ополовник (птица)</t></tg></mg></e>
+<e><lg><l pos="N">мӓнгӹгол</l><stg><st>мӓнгӹгол</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>минога</t></tg></mg></e>
+<e><lg><l pos="N">мелвуйгӹдеж</l><stg><st>мелвуйгӹдеж</st></stg><ref>мелвуйгӹдеж, мелвуйцара</ref></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>диафрагма, грудобрюшная перегородка</t></tg></mg></e>
+<e><lg><l pos="N">мелвуйцара</l><stg><st>мелвуйцара</st></stg><ref>мелвуйгӹдеж, мелвуйцара</ref></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>диафрагма, грудобрюшная перегородка</t></tg></mg></e>
+<e><lg><l pos="N">мен</l><stg><st>мен</st></stg><ref>мен, менкол</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>налим</t></tg></mg></e>
+<e><lg><l pos="N">менкол</l><stg><st>менкол</st></stg><ref>мен, менкол</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>налим</t></tg></mg></e>
+<e><lg><l pos="N">мокрицӓ</l><stg><st>мокрицӓ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>мокрица</t></tg></mg></e>
+<e><lg><l pos="N">моренкавшта</l><stg><st>моренкавшта</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>очиток пурпурный, заячья капуста</t></tg></mg></e>
+<e><lg><l pos="N">моренлӓшкӓ</l><stg><st>моренлӓшкӓ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>кислица, кисличка обыкновенная</t></tg></mg></e>
+<e><lg><l pos="N">мореншапшуды</l><stg><st>мореншапшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>клевер заячий</t></tg></mg></e>
+<e><lg><l pos="N">мӧрйӓрӹм</l><stg><st>мӧрйӓрӹм</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>усы, наружные корни клубники</t></tg></mg><mg><tg xml:lang="rus"><t>метлица, мятлик (из сем. злаковых)</t></tg></mg></e>
+<e><lg><l pos="N">мӧскӓвыч</l><stg><st>мӧскӓвыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>дягиль</t></tg></mg></e>
+<e><lg><l pos="N">мӧскӓвӹлӹш</l><stg><st>мӧскӓвӹлӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>коровяк (растение)</t></tg></mg></e>
+<e><lg><l pos="N">мӱкшкек</l><stg><st>мӱкшкек</st></stg><ref>мӱкшкек, мӱкшлоэц</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>шурка золотистая</t></tg></mg></e>
+<e><lg><l pos="N">мӱкшлоэц</l><stg><st>мӱкшлоэц</st></stg><ref>мӱкшкек, мӱкшлоэц</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>шурка золотистая</t></tg></mg></e>
+<e><lg><l pos="N">мӱкшпеледӹш</l><stg><st>мӱкшпеледӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мелисса</t></tg></mg></e>
+<e><lg><l pos="N">мӱшуды</l><stg><st>мӱшуды</st></stg><ref>мӱшуды, мӱшудываж</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>солодовый корень, лакрица</t></tg></mg></e>
+<e><lg><l pos="N">мӱшудываж</l><stg><st>мӱшудываж</st></stg><ref>мӱшуды, мӱшудываж</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>солодовый корень, лакрица</t></tg></mg></e>
+<e><lg><l pos="N">мыгыльшӱ</l><stg><st>мыгыльшӱ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>цапля серая</t></tg></mg></e>
+<e><lg><l pos="N">мыни</l><stg><st>мыни</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>жаба</t></tg></mg></e>
+<e><lg><l pos="N">мыртык тымана</l><stg><st>мыртык тымана</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>разновидность совы, воробьиный сыч</t></tg></mg></e>
+<e><lg><l pos="N">мырым шуды</l><stg><st>мырым шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ластовень</t></tg></mg></e>
+<e><lg><l pos="N">мята</l><stg><st>мята</st></stg><ref>мята, мятӹ шуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мята</t></tg></mg></e>
+<e><lg><l pos="N">мятӹ шуды</l><stg><st>мятӹ шуды</st></stg><ref>мята, мятӹ шуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мята</t></tg></mg></e>
+<e><lg><l pos="N">навой</l><stg><st>навой</st></stg><ref>навой, навуй</ref></lg><mg><i>(ткац.)</i><tg xml:lang="rus"><t>навой (у ткацкого станка)</t></tg></mg></e>
+<e><lg><l pos="N">навуй</l><stg><st>навуй</st></stg><ref>навой, навуй</ref></lg><mg><i>(ткац.)</i><tg xml:lang="rus"><t>навой (у ткацкого станка)</t></tg></mg></e>
+<e><lg><l pos="N">намозы капшангы</l><stg><st>намозы капшангы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>навозный жук</t></tg></mg></e>
+<e><lg><l pos="N">намозы понгы</l><stg><st>намозы понгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>навозный гриб, шампиньон</t></tg></mg></e>
+<e><lg><l pos="N">нарынзывуй</l><stg><st>нарынзывуй</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>купальница европейская (цветы)</t></tg></mg></e>
+<e><lg><l pos="N">нарэдем</l><stg><st>нарэдем</st></stg></lg><mg><i>(миф.)</i><tg xml:lang="rus"><t>великан</t></tg></mg></e>
+<e><lg><l pos="N">начкыдаракан</l><stg><st>начкыдаракан</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>мокрица</t></tg></mg></e>
+<e><lg><l pos="N">нашатыр</l><stg><st>нашатыр</st></stg><ref>нашатыр, нашатир</ref></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>нашатырь</t></tg></mg></e>
+<e><lg><l pos="N">нашатир</l><stg><st>нашатир</st></stg><ref>нашатыр, нашатир</ref></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>нашатырь</t></tg></mg></e>
+<e><lg><l pos="N">нашмы</l><stg><st>нашмы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>жабры (у рыб)</t></tg></mg></e>
+<e><lg><l pos="N">недӹк</l><stg><st>недӹк</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>воспаление среднего уха</t></tg></mg></e>
+<e><lg><l pos="N">недӹшуды</l><stg><st>недӹшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>лютик едкий</t></tg></mg></e>
+<e><lg><l pos="N">незер шол</l><stg><st>незер шол</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>тонкая кишка</t></tg></mg></e>
+<e><lg><l pos="N">незершуды</l><stg><st>незершуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>живокость (сем. лютиковых)</t></tg></mg></e>
+<e><lg><l pos="N">немӹцпырса</l><stg><st>немӹцпырса</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>бобы конские; фасоль</t></tg></mg></e>
+<e><lg><l pos="N">немӹццӹвӹ</l><stg><st>немӹццӹвӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>индюк</t></tg></mg></e>
+<e><lg><l pos="N">нергӹ</l><stg><st>нергӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>барсук</t></tg></mg></e>
+<e><lg><l pos="N">нерлу</l><stg><st>нерлу</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>носовой хрящ, переносица</t></tg></mg></e>
+<e><lg><l pos="N">нерраж</l><stg><st>нерраж</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>ноздря, ноздри</t></tg></mg></e>
+<e><lg><l pos="N">нерӱпш</l><stg><st>нерӱпш</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>обоняние, нюх</t></tg></mg></e>
+<e><lg><l pos="N">нужӓнгӹр</l><stg><st>нужӓнгӹр</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>жерлица (птица)</t></tg></mg></e>
+<e><lg><l pos="N">ныргыльы</l><stg><st>ныргыльы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>лунь (птица)</t></tg></mg></e>
+<e><lg><l pos="N">ныр каля</l><stg><st>ныр каля</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>мышь-зерновка, мышь полевая</t></tg></mg></e>
+<e><lg><l pos="N">ныр мызы</l><stg><st>ныр мызы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>куропатка серая</t></tg></mg></e>
+<e><lg><l pos="N">оксашуды</l><stg><st>оксашуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ярутка; погремок</t></tg></mg></e>
+<e><lg><l pos="N">онг лу</l><stg><st>онг лу</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>грудная кость</t></tg></mg></e>
+<e><lg><l pos="N">орави вӓрӓш</l><stg><st>орави вӓрӓш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ястреб- перепелятник</t></tg></mg></e>
+<e><lg><l pos="N">оравимӧр</l><stg><st>оравимӧр</st></stg><ref>оравимӧр, оравигӹцкӹ</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>бузина</t></tg></mg></e>
+<e><lg><l pos="N">оравигӹцкӹ</l><stg><st>оравигӹцкӹ</st></stg><ref>оравимӧр, оравигӹцкӹ</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>бузина</t></tg></mg></e>
+<e><lg><l pos="N">ородышуды</l><stg><st>ородышуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>дурман</t></tg></mg></e>
+<e><lg><l pos="N">останши</l><stg><st>останши</st></stg></lg><mg><i>(миф.)</i><tg xml:lang="rus"><t>конец мира</t></tg></mg></e>
+<e><lg><l pos="N">охыра</l><stg><st>охыра</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>луковица, головка лука, луковка, репчатый лук</t></tg></mg></e>
+<e><lg><l pos="N">охырашуды</l><stg><st>охырашуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>дикий лук</t></tg></mg></e>
+<e><lg><l pos="N">ошаргек</l><stg><st>ошаргек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>чирок-трескунок</t></tg></mg></e>
+<e><lg><l pos="N">ошвуйшуды</l><stg><st>ошвуйшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>тысячелистник; ромашка непахучая</t></tg></mg></e>
+<e><lg><l pos="N">ошкол</l><stg><st>ошкол</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>белуга; белужий</t></tg></mg><mg><tg xml:lang="rus"><t>белорыбица</t></tg></mg></e>
+<e><lg><l pos="N">ошкы</l><stg><st>ошкы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>осокорь (дерево)</t></tg></mg></e>
+<e><lg><l pos="N">ошмагол</l><stg><st>ошмагол</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>пескарь</t></tg></mg></e>
+<e><lg><l pos="N">ош морен</l><stg><st>ош морен</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>заяц-беляк</t></tg></mg></e>
+<e><lg><l pos="N">ошпач</l><stg><st>ошпач</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>орлан-белохвост (птица)</t></tg></mg></e>
+<e><lg><l pos="N">ошписӓн</l><stg><st>ошписӓн</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>татарник</t></tg></mg></e>
+<e><lg><l pos="N">ошпонгы</l><stg><st>ошпонгы</st></stg><ref>ошпонгы, ошкалявонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>белый гриб; вешенка</t></tg></mg></e>
+<e><lg><l pos="N">ошкалявонгы</l><stg><st>ошкалявонгы</st></stg><ref>ошпонгы, ошкалявонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>белый гриб; вешенка</t></tg></mg></e>
+<e><lg><l pos="N">ош рижӹк</l><stg><st>ош рижӹк</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>белянка (рыжики)</t></tg></mg></e>
+<e><lg><l pos="N">ош тымана</l><stg><st>ош тымана</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>белая сова</t></tg></mg></e>
+<e><lg><l pos="N">ош шаптыр</l><stg><st>ош шаптыр</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>желтая (белая) смородина</t></tg></mg></e>
+<e><lg><l pos="N">ӧфивыч</l><stg><st>ӧфивыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>цветоносный стебель бутеня клубненосного</t></tg></mg></e>
+<e><lg><l pos="N">ӧфи шуды</l><stg><st>ӧфи шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>бутень клубненосный</t></tg></mg></e>
+<e><lg><l pos="N">палдыран пыч</l><stg><st>палдыран пыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>стебель борщевика</t></tg></mg></e>
+<e><lg><l pos="N">пандывырса</l><stg><st>пандывырса</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>фасоль; желтая акация</t></tg></mg></e>
+<e><lg><l pos="N">паранпонгы</l><stg><st>паранпонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>гриб-баран, грифола курчавая (сем. трутовиков)</t></tg></mg></e>
+<e><lg><l pos="N">парсынлӹпӹ</l><stg><st>парсынлӹпӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>шелкопряд, шелковичный червь</t></tg></mg></e>
+<e><lg><l pos="N">парсыншуды</l><stg><st>парсыншуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>повилика (сорная трава)</t></tg></mg></e>
+<e><lg><l pos="N">парсыншылдыр</l><stg><st>парсыншылдыр</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>красноперка (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">патямӧр</l><stg><st>патямӧр</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>очиток едкий</t></tg></mg></e>
+<e><lg><l pos="N">патямыж</l><stg><st>патямыж</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ситник однолетний</t></tg></mg></e>
+<e><lg><l pos="N">пАчтАнгата</l><stg><st>пАчтАнгата</st></stg><ref>пАчтАнгата, пачтамга</ref></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>копчик, копчиковая кость</t></tg></mg></e>
+<e><lg><l pos="N">пачтамга</l><stg><st>пачтамга</st></stg><ref>пАчтАнгата, пачтамга</ref></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>копчик, копчиковая кость</t></tg></mg></e>
+<e><lg><l pos="N">пачӹрдӹ</l><stg><st>пачӹрдӹ</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>хвостовой отдел позвоночника</t></tg></mg></e>
+<e><lg><l pos="N">пачӹрдӹдӹнг</l><stg><st>пачӹрдӹдӹнг</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>крестец</t></tg></mg></e>
+<e><lg><l pos="N">пӓрдӓш</l><stg><st>пӓрдӓш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>язь (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">пелянгӓ</l><stg><st>пелянгӓ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>волнушка (гриб)</t></tg></mg></e>
+<e><lg><l pos="N">перкецӓшкӓ</l><stg><st>перкецӓшкӓ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>гриб- бокальчик (мелкие грибы, обычно на хлебном поле)</t></tg></mg></e>
+<e><lg><l pos="N">пивонгы</l><stg><st>пивонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>опенок ложный</t></tg></mg></e>
+<e><lg><l pos="N">пивӧчӹж</l><stg><st>пивӧчӹж</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>толокнянка</t></tg></mg></e>
+<e><lg><l pos="N">пивуйвыч</l><stg><st>пивуйвыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>омежник (ядовитое растение)</t></tg></mg></e>
+<e><lg><l pos="N">пивырса</l><stg><st>пивырса</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>вика мохнатая, люпин</t></tg></mg></e>
+<e><lg><l pos="N">пивыч</l><stg><st>пивыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>свербига восточная</t></tg></mg></e>
+<e><lg><l pos="N">пигол</l><stg><st>пигол</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>щиповка обыкновенная (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">пиломбы</l><stg><st>пиломбы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>крушина</t></tg></mg></e>
+<e><lg><l pos="N">пимбӹ</l><stg><st>пимбӹ</st></stg><ref>пимбӹ, пимба</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>зяблик</t></tg></mg></e>
+<e><lg><l pos="N">пимба</l><stg><st>пимба</st></stg><ref>пимбӹ, пимба</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>зяблик</t></tg></mg></e>
+<e><lg><l pos="N">пипи</l><stg><st>пипи</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>нераспустившиеся цветы краснотала (ивы)</t></tg></mg></e>
+<e><lg><l pos="N">пирӹванды</l><stg><st>пирӹванды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>волчеягодник (кустарник)</t></tg></mg><mg><tg xml:lang="rus"><t>крушина</t></tg></mg></e>
+<e><lg><l pos="N">пистӹ калявонгы</l><stg><st>пистӹ калявонгы</st></stg><ref>пистӹ калявонгы, пистӹвонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>моховик (гриб)</t></tg></mg></e>
+<e><lg><l pos="N">пистӹвонгы</l><stg><st>пистӹвонгы</st></stg><ref>пистӹ калявонгы, пистӹвонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>моховик (гриб)</t></tg></mg></e>
+<e><lg><l pos="N">пистӹ капшангы</l><stg><st>пистӹ капшангы</st></stg><ref>пистӹ капшангы, пистӹ таракан</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>бескрылый красноклоп, солдатик</t></tg></mg></e>
+<e><lg><l pos="N">пистӹ таракан</l><stg><st>пистӹ таракан</st></stg><ref>пистӹ капшангы, пистӹ таракан</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>бескрылый красноклоп, солдатик</t></tg></mg></e>
+<e><lg><l pos="N">пистӹ рижӹк</l><stg><st>пистӹ рижӹк</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сыроежка красная</t></tg></mg></e>
+<e><lg><l pos="N">питьырвонгы</l><stg><st>питьырвонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>лисички (грибы)</t></tg></mg></e>
+<e><lg><l pos="N">пихтӹгож</l><stg><st>пихтӹгож</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пихта; пихтовый</t></tg></mg></e>
+<e><lg><l pos="N">пишол</l><stg><st>пишол</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>вязель (вьющаяся кормовая трава)</t></tg></mg></e>
+<e><lg><l pos="N">подузы</l><stg><st>подузы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>подуза, подуст (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">подыренгӹ</l><stg><st>подыренгӹ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>плети, усики растений (напр. хмеля)</t></tg></mg></e>
+<e><lg><l pos="N">поконьыкшуды</l><stg><st>поконьыкшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чернокорень</t></tg></mg></e>
+<e><lg><l pos="N">поли пеледӹш</l><stg><st>поли пеледӹш</st></stg><ref>поли пеледӹш, поливеледӹш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>золотые шары (декоративное растение)</t></tg></mg></e>
+<e><lg><l pos="N">поливеледӹш</l><stg><st>поливеледӹш</st></stg><ref>поли пеледӹш, поливеледӹш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>золотые шары (декоративное растение)</t></tg></mg></e>
+<e><lg><l pos="N">помидор</l><stg><st>помидор</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>помидор</t></tg></mg></e>
+<e><lg><l pos="N">понар пеледӹш</l><stg><st>понар пеледӹш</st></stg><ref>понар пеледӹш, понар шуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>одуванчик</t></tg></mg></e>
+<e><lg><l pos="N">понар шуды</l><stg><st>понар шуды</st></stg><ref>понар пеледӹш, понар шуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>одуванчик</t></tg></mg></e>
+<e><lg><l pos="N">понгы важ</l><stg><st>понгы важ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>грибница, мицелий гриба</t></tg></mg></e>
+<e><lg><l pos="N">поран кек</l><stg><st>поран кек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>пуночка</t></tg></mg></e>
+<e><lg><l pos="N">пӧртшӹгол</l><stg><st>пӧртшӹгол</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>сельдь волжская</t></tg></mg></e>
+<e><lg><l pos="N">пуйыре</l><stg><st>пуйыре</st></stg><ref>пуйыре, пуйыре шуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пырей</t></tg></mg></e>
+<e><lg><l pos="N">пуйыре шуды</l><stg><st>пуйыре шуды</st></stg><ref>пуйыре, пуйыре шуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пырей</t></tg></mg></e>
+<e><lg><l pos="N">пулыш</l><stg><st>пулыш</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>плечо, предплечье</t></tg></mg></e>
+<e><lg><l pos="N">пулыш лу</l><stg><st>пулыш лу</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>плечевая кость</t></tg></mg></e>
+<e><lg><l pos="N">пулышсавала</l><stg><st>пулышсавала</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>лопатка (часть тела)</t></tg></mg></e>
+<e><lg><l pos="N">пурка</l><stg><st>пурка</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>индюк</t></tg></mg></e>
+<e><lg><l pos="N">пустануж</l><stg><st>пустануж</st></stg><ref>пустануж, пусташуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пустырник</t></tg></mg></e>
+<e><lg><l pos="N">пусташуды</l><stg><st>пусташуды</st></stg><ref>пустануж, пусташуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пустырник</t></tg></mg></e>
+<e><lg><l pos="N">пӱӓн охыра</l><stg><st>пӱӓн охыра</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чеснок</t></tg></mg></e>
+<e><lg><l hid="Hom1">пӱкшем</l><stg><st>пӱкшем</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>завязь растения</t></tg></mg></e>
+<e><lg><l pos="N">пӱкшкаля</l><stg><st>пӱкшкаля</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>орешниковая соня</t></tg></mg></e>
+<e><lg><l pos="N">пӱсӹр</l><stg><st>пӱсӹр</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>пупочная грыжа (у детей)</t></tg></mg></e>
+<e><lg><l pos="N">пӱсӹр шуды</l><stg><st>пӱсӹр шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>дымянка лекарственная</t></tg></mg></e>
+<e><lg><l pos="N">пыйиванды</l><stg><st>пыйиванды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>бересклет</t></tg></mg></e>
+<e><lg><l pos="N">пындӹрвӹ</l><stg><st>пындӹрвӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>усач, голец (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">пырташтымана</l><stg><st>пырташтымана</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>мохноногий сыч</t></tg></mg></e>
+<e><lg><l pos="N">пӹзӹлмӹ лагы</l><stg><st>пӹзӹлмӹ лагы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>дрозд-рябинник</t></tg></mg></e>
+<e><lg><l pos="N">пӹзӹлмӹлӹштӓш</l><stg><st>пӹзӹлмӹлӹштӓш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>Черноголовка (полевое растение)</t></tg></mg></e>
+<e><lg><l pos="N">пӹзӹлмӹшуды</l><stg><st>пӹзӹлмӹшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пижма</t></tg></mg></e>
+<e><lg><l pos="N">пӹлӹшӓнтымана</l><stg><st>пӹлӹшӓнтымана</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>филин, ушастая сова</t></tg></mg></e>
+<e><lg><l pos="N">пӹлӹш мычаш</l><stg><st>пӹлӹш мычаш</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>мочка уха</t></tg></mg></e>
+<e><lg><l pos="N">пӹлӹш цара</l><stg><st>пӹлӹш цара</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>барабанная перепонка</t></tg></mg></e>
+<e><lg><l pos="N">пӹркем рижӹк</l><stg><st>пӹркем рижӹк</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>серушка</t></tg></mg></e>
+<e><lg><l pos="N">пӹртньӹк</l><stg><st>пӹртньӹк</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мята</t></tg></mg></e>
+<e><lg><l pos="N">пӹсмӓн шуды</l><stg><st>пӹсмӓн шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ежа сборная</t></tg></mg></e>
+<e><lg><l pos="N">пӹшмӓш</l><stg><st>пӹшмӓш</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>массаж</t></tg></mg></e>
+<e><lg><l pos="N">рӓдӹвонгы</l><stg><st>рӓдӹвонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>опенок луговой</t></tg></mg></e>
+<e><lg><l pos="N">ревӹ</l><stg><st>ревӹ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>репа</t></tg></mg></e>
+<e><lg><l pos="N">рижӹк</l><stg><st>рижӹк</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>рыжик</t></tg></mg></e>
+<e><lg><l pos="N">рокморен</l><stg><st>рокморен</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>тушканчик</t></tg></mg></e>
+<e><lg><l pos="N">роколмагӹцкӹ</l><stg><st>роколмагӹцкӹ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>плоды паслена черного</t></tg></mg></e>
+<e><lg><l pos="N">роколмагӹцкӹшуды</l><stg><st>роколмагӹцкӹшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>паслен черный</t></tg></mg></e>
+<e><lg><l pos="N">рокӱ</l><stg><st>рокӱ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>веселка (земляное масло) (гриб)</t></tg></mg></e>
+<e><lg><l hid="Hom2">ронгыж</l><stg><st>ронгыж</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ореховка, кедровка (птица)</t></tg></mg></e>
+<e><lg><l pos="N">русак</l><stg><st>русак</st></stg><ref>русак, русак морен</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>заяц-русак</t></tg></mg></e>
+<e><lg><l pos="N">русак морен</l><stg><st>русак морен</st></stg><ref>русак, русак морен</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>заяц-русак</t></tg></mg></e>
+<e><lg><l pos="N">рушвуйшуды</l><stg><st>рушвуйшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мелисса</t></tg></mg></e>
+<e><lg><l pos="N">рушкуку</l><stg><st>рушкуку</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>кукушка глухая</t></tg></mg></e>
+<e><lg><l pos="N">сакыр ушман</l><stg><st>сакыр ушман</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сахарная свекла</t></tg></mg></e>
+<e><lg><l pos="N">салдивӓрӓш</l><stg><st>салдивӓрӓш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>кобчик, пустельга (сем. соколиных)</t></tg></mg></e>
+<e><lg><l pos="N">салтакполдыш</l><stg><st>салтакполдыш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>короставник</t></tg></mg></e>
+<e><lg><l pos="N">сАранча</l><stg><st>сАранча</st></stg><ref>сАранча, саранца</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>саранча</t></tg></mg></e>
+<e><lg><l pos="N">саранца</l><stg><st>саранца</st></stg><ref>сАранча, саранца</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>саранча</t></tg></mg></e>
+<e><lg><l pos="N">сарлашуды</l><stg><st>сарлашуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>телорез обыкновенный</t></tg></mg></e>
+<e><lg><l pos="N">сар локон</l><stg><st>сар локон</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>кубышка</t></tg></mg></e>
+<e><lg><l pos="N">сар ушман</l><stg><st>сар ушман</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>брюква, бушма</t></tg></mg></e>
+<e><lg><l pos="N">сар ӹнгӹж</l><stg><st>сар ӹнгӹж</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>желтая (белая) малина</t></tg></mg></e>
+<e><lg><l pos="N">сасна крузы</l><stg><st>сасна крузы</st></stg><ref>сасна крузы, саснагрузы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>груздь черный, свинарь</t></tg></mg></e>
+<e><lg><l pos="N">саснагрузы</l><stg><st>саснагрузы</st></stg><ref>сасна крузы, саснагрузы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>груздь черный, свинарь</t></tg></mg></e>
+<e><lg><l pos="N">сӓвсӹль</l><stg><st>сӓвсӹль</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>медуница неясная</t></tg></mg></e>
+<e><lg><l pos="N">сексӹ</l><stg><st>сексӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>скопа (хищная птица)</t></tg></mg></e>
+<e><lg><l pos="N">сепнӹмӓш</l><stg><st>сепнӹмӓш</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>эпилепсия, падучая болезнь</t></tg></mg></e>
+<e><lg><l hid="Hom2">сила</l><stg><st>сила</st></stg></lg><mg><i>(ткац.)</i><tg xml:lang="rus"><t>поперечные дощечки, проходящие между нитками основы</t></tg></mg></e>
+<e><lg><l pos="N">симсӹмӱкш</l><stg><st>симсӹмӱкш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>пчела-плотник</t></tg></mg></e>
+<e><lg><l pos="N">синюк</l><stg><st>синюк</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>синюха лазоревая</t></tg></mg></e>
+<e><lg><l pos="N">сирӓ</l><stg><st>сирӓ</st></stg></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>сера; серный</t></tg></mg></e>
+<e><lg><l pos="N">сиргек</l><stg><st>сиргек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>чекан-каменка, овражник</t></tg></mg></e>
+<e><lg><l pos="N">сиргельӹ</l><stg><st>сиргельӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ласточка береговая</t></tg></mg></e>
+<e><lg><l pos="N">сирем мӧр</l><stg><st>сирем мӧр</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>клубника</t></tg></mg></e>
+<e><lg><l pos="N">сиремпонгы</l><stg><st>сиремпонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>опенок луговой, рядовка</t></tg></mg></e>
+<e><lg><l pos="N">скипидар</l><stg><st>скипидар</st></stg><ref>скипидар, спитӓр, спидӓр</ref></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>скипидар</t></tg></mg></e>
+<e><lg><l pos="N">спитӓр</l><stg><st>спитӓр</st></stg><ref>скипидар, спитӓр, спидӓр</ref></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>скипидар</t></tg></mg></e>
+<e><lg><l pos="N">спидӓр</l><stg><st>спидӓр</st></stg><ref>скипидар, спитӓр, спидӓр</ref></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>скипидар</t></tg></mg></e>
+<e><lg><l pos="N">соктавонгы</l><stg><st>соктавонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>масленок (гриб)</t></tg></mg></e>
+<e><lg><l pos="N">соктавушты</l><stg><st>соктавушты</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>рубец</t></tg></mg></e>
+<e><lg><l pos="N">сонимакы</l><stg><st>сонимакы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мальва, штокроза</t></tg></mg></e>
+<e><lg><l pos="N">суслик</l><stg><st>суслик</st></stg><ref>суслик, сусльык</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>суслик</t></tg></mg></e>
+<e><lg><l pos="N">сусльык</l><stg><st>сусльык</st></stg><ref>суслик, сусльык</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>суслик</t></tg></mg></e>
+<e><lg><l pos="N">сываншуды</l><stg><st>сываншуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>кирказон ломоносовидный</t></tg></mg></e>
+<e><lg><l pos="N">сырмы</l><stg><st>сырмы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>рысь</t></tg></mg></e>
+<e><lg><l pos="N">сӹнзӓн ужшы</l><stg><st>сӹнзӓн ужшы</st></stg><ref>сӹнзӓн ужшы, сӹнзӓужшы</ref></lg><mg><i>(миф.)</i><tg xml:lang="rus"><t>ясновидец, прозорливец; ворожея</t></tg></mg></e>
+<e><lg><l pos="N">сӹнзӓужшы</l><stg><st>сӹнзӓужшы</st></stg><ref>сӹнзӓн ужшы, сӹнзӓужшы</ref></lg><mg><i>(миф.)</i><tg xml:lang="rus"><t>ясновидец, прозорливец; ворожея</t></tg></mg></e>
+<e><lg><l hid="Hom2">сӹрт</l><stg><st>сӹрт</st></stg></lg><mg><i>(миф.)</i><tg xml:lang="rus"><t>фея, лесная красавица (из легенды)</t></tg></mg></e>
+<e><lg><l pos="N">сӹрт пеледӹш</l><stg><st>сӹрт пеледӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>фиалка</t></tg></mg></e>
+<e><lg><l pos="N">тавакшуды</l><stg><st>тавакшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>белена черная</t></tg></mg></e>
+<e><lg><l pos="N">такеш понгы</l><stg><st>такеш понгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>несъедобные грибы</t></tg></mg></e>
+<e><lg><l pos="N">такыршуды</l><stg><st>такыршуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>гречиха птичья</t></tg></mg></e>
+<e><lg><l hid="Hom2">тара</l><stg><st>тара</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сережки, нераспустившиеся почки (напр. березы)</t></tg></mg></e>
+<e><lg><l pos="N">таракан пырса</l><stg><st>таракан пырса</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>бобы, конские бобы</t></tg></mg></e>
+<e><lg><l pos="N">таты</l><stg><st>таты</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>линь (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">тӓгӓвисӓн</l><stg><st>тӓгӓвисӓн</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>татарник</t></tg></mg></e>
+<e><lg><l pos="N">тигӹтвуй</l><stg><st>тигӹтвуй</st></stg><ref>тигӹтвуй, тигӹтпеледӹш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>смолка</t></tg></mg></e>
+<e><lg><l pos="N">тигӹтпеледӹш</l><stg><st>тигӹтпеледӹш</st></stg><ref>тигӹтвуй, тигӹтпеледӹш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>смолка</t></tg></mg></e>
+<e><lg><l pos="N">тигӹтшуды</l><stg><st>тигӹтшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>цикорий</t></tg></mg></e>
+<e><lg><l pos="N">той кӹшкӹ</l><stg><st>той кӹшкӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>медянка (змея)</t></tg></mg></e>
+<e><lg><l pos="N">той шӓкшӓльӹ</l><stg><st>той шӓкшӓльӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>веретенница ломкая</t></tg></mg></e>
+<e><lg><l pos="N">трӓсӓк пӧчӹж</l><stg><st>трӓсӓк пӧчӹж</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>брусника</t></tg></mg></e>
+<e><lg><l pos="N">тум калявонгы</l><stg><st>тум калявонгы</st></stg><ref>тум калявонгы, тум понгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>дубовик, поддубовик</t></tg></mg></e>
+<e><lg><l pos="N">тум понгы</l><stg><st>тум понгы</st></stg><ref>тум калявонгы, тум понгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>дубовик, поддубовик</t></tg></mg></e>
+<e><lg><l pos="N">тумпарсын</l><stg><st>тумпарсын</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>женские соцветия дуба</t></tg></mg></e>
+<e><lg><l pos="N">тум парсынлӹпӹ</l><stg><st>тум парсынлӹпӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>дубовый шелкопряд</t></tg></mg></e>
+<e><lg><l pos="N">туригӹцкӹ</l><stg><st>туригӹцкӹ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>плоды паслена черного</t></tg></mg></e>
+<e><lg><l pos="N">тури капшангы</l><stg><st>тури капшангы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>колорадский жук</t></tg></mg></e>
+<e><lg><l pos="N">тури олма</l><stg><st>тури олма</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>зеленые плоды картофельной ботвы</t></tg></mg></e>
+<e><lg><l pos="N">турнепс</l><stg><st>турнепс</st></stg><ref>турнепс, турнепсӹ</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>турнепс</t></tg></mg></e>
+<e><lg><l pos="N">турнепсӹ</l><stg><st>турнепсӹ</st></stg><ref>турнепс, турнепсӹ</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>турнепс</t></tg></mg></e>
+<e><lg><l pos="N">тусатальы</l><stg><st>тусатальы</st></stg><ref>тусатальы, тусатай</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пикульник зябра (название травы)</t></tg></mg></e>
+<e><lg><l pos="N">тусатай</l><stg><st>тусатай</st></stg><ref>тусатальы, тусатай</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пикульник зябра (название травы)</t></tg></mg></e>
+<e><lg><l pos="N">туситӓ</l><stg><st>туситӓ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>душица</t></tg></mg></e>
+<e><lg><l pos="N">тыгыды пишол</l><stg><st>тыгыды пишол</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>вязель пестрый</t></tg></mg></e>
+<e><lg><l pos="N">тыкты</l><stg><st>тыкты</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>гагара чернозобая</t></tg></mg></e>
+<e><lg><l pos="N">тылваста</l><stg><st>тылваста</st></stg></lg><mg><i>(миф.)</i><tg xml:lang="rus"><t>геенна огненная, огненное страшилище</t></tg></mg></e>
+<e><lg><l pos="N">тылвеледӹш</l><stg><st>тылвеледӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>горицвет, адонис</t></tg></mg></e>
+<e><lg><l pos="N">тылгек</l><stg><st>тылгек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>горихвостка садовая</t></tg></mg></e>
+<e><lg><l pos="N">тылдивӓрӓш</l><stg><st>тылдивӓрӓш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>кобчик, пустельга</t></tg></mg></e>
+<e><lg><l pos="N">тыманавонгы</l><stg><st>тыманавонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сморчок съедобный</t></tg></mg></e>
+<e><lg><l pos="N">тымана лӹпӹ</l><stg><st>тымана лӹпӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>совка (ночная бабочка)</t></tg></mg></e>
+<e><lg><l pos="N">тыманалӹпӹшуды</l><stg><st>тыманалӹпӹшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>белена (ядовитое растение)</t></tg></mg></e>
+<e><lg><l pos="N">тыргӓдӹ</l><stg><st>тыргӓдӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>горлица, горлинка</t></tg></mg></e>
+<e><lg><l pos="N">тырнявӧчӹж</l><stg><st>тырнявӧчӹж</st></stg><ref>тырнявӧчӹж, тыртнявӧчӹж</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>клюква</t></tg></mg></e>
+<e><lg><l pos="N">тыртнявӧчӹж</l><stg><st>тыртнявӧчӹж</st></stg><ref>тырнявӧчӹж, тыртнявӧчӹж</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>клюква</t></tg></mg></e>
+<e><lg><l pos="N">тырнявырса</l><stg><st>тырнявырса</st></stg><ref>тырнявырса, тыртнявырса</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чина лесная</t></tg></mg></e>
+<e><lg><l pos="N">тыртнявырса</l><stg><st>тыртнявырса</st></stg><ref>тырнявырса, тыртнявырса</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чина лесная</t></tg></mg></e>
+<e><lg><l pos="N">тӹвӹргӹ</l><stg><st>тӹвӹргӹ</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>поджелудочная железа</t></tg></mg></e>
+<e><lg><l pos="N">тӹнгӓ</l><stg><st>тӹнгӓ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>овод</t></tg></mg></e>
+<e><lg><l pos="N">тӹтӹрӓшуды</l><stg><st>тӹтӹрӓшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>синеголовник</t></tg></mg></e>
+<e><lg><l pos="N">упшан кӹсиӓ</l><stg><st>упшан кӹсиӓ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>синица хохлатая</t></tg></mg></e>
+<e><lg><l pos="N">упшан лагы</l><stg><st>упшан лагы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>свиристель</t></tg></mg></e>
+<e><lg><l pos="N">урвач</l><stg><st>урвач</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>хвощ полевой (сорная трава)</t></tg></mg></e>
+<e><lg><l pos="N">ургаля</l><stg><st>ургаля</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>соня (зверек, подверженный долгой зимней спячке)</t></tg></mg></e>
+<e><lg><l pos="N">урлыды</l><stg><st>урлыды</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>клест (птица)</t></tg></mg></e>
+<e><lg><l pos="N">урмӧр</l><stg><st>урмӧр</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>майник двулистный; морошка</t></tg></mg></e>
+<e><lg><l pos="N">урымды</l><stg><st>урымды</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>бурундук</t></tg></mg></e>
+<e><lg><l pos="N">уталгымаш</l><stg><st>уталгымаш</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>шок, потеря сознания</t></tg></mg></e>
+<e><lg><l pos="N">ӱдӹмгек</l><stg><st>ӱдӹмгек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>чекан луговой (птица)</t></tg></mg></e>
+<e><lg><l pos="N">ӱштӹмыж кужынер</l><stg><st>ӱштӹмыж кужынер</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>малярийный комар</t></tg></mg></e>
+<e><lg><l pos="N">ӱэ</l><stg><st>ӱэ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ветла</t></tg></mg></e>
+<e><lg><l pos="N">ӱэвонгы</l><stg><st>ӱэвонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подвишеньгриб, вешенка</t></tg></mg></e>
+<e><lg><l pos="N">ӱэчӹкчӹк</l><stg><st>ӱэчӹкчӹк</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>горихвостка садовая (птица)</t></tg></mg></e>
+<e><lg><l pos="N">фиалка</l><stg><st>фиалка</st></stg><ref>фиалка, фиалкы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>фиалка</t></tg></mg></e>
+<e><lg><l pos="N">фиалкы</l><stg><st>фиалкы</st></stg><ref>фиалка, фиалкы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>фиалка</t></tg></mg></e>
+<e><lg><l pos="N">фикус</l><stg><st>фикус</st></stg><ref>фикус, фигус</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>фикус</t></tg></mg></e>
+<e><lg><l pos="N">фигус</l><stg><st>фигус</st></stg><ref>фикус, фигус</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>фикус</t></tg></mg></e>
+<e><lg><l pos="N">холера</l><stg><st>холера</st></stg><ref>холера, калер</ref></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>холера</t></tg></mg></e>
+<e><lg><l pos="N">калер</l><stg><st>калер</st></stg><ref>холера, калер</ref></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>холера</t></tg></mg></e>
+<e><lg><l pos="N">цажвыч</l><stg><st>цажвыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>свербига (трава съедобная)</t></tg></mg></e>
+<e><lg><l pos="N">цАрамак</l><stg><st>цАрамак</st></stg><ref>цАрамак, цараматкек</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>иволга</t></tg></mg></e>
+<e><lg><l pos="N">цараматкек</l><stg><st>цараматкек</st></stg><ref>цАрамак, цараматкек</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>иволга</t></tg></mg></e>
+<e><lg><l pos="N">царамат</l><stg><st>царамат</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>желтуха (болезнь печени)</t></tg></mg></e>
+<e><lg><l pos="N">царамат шуды</l><stg><st>царамат шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>буквица аптечная; паслен сладко-горький</t></tg></mg></e>
+<e><lg><l pos="N">цаштыра метелцӓ</l><stg><st>цаштыра метелцӓ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>костер безостый</t></tg></mg></e>
+<e><lg><l pos="N">цӓгӓн</l><stg><st>цӓгӓн</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>рогоз узколистный (широколистный)</t></tg></mg></e>
+<e><lg><l pos="N">цӓрӓгапшангы</l><stg><st>цӓрӓгапшангы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мокрица</t></tg></mg></e>
+<e><lg><l pos="N">цӓцӓля</l><stg><st>цӓцӓля</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>щегол</t></tg></mg></e>
+<e><lg><l pos="N">цӓшпӹль</l><stg><st>цӓшпӹль</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>медуница неясная</t></tg></mg></e>
+<e><lg><l pos="N">цепкӓ</l><stg><st>цепкӓ</st></stg><ref>цепкӓ, сепкӓ</ref></lg><mg><i>(ткац.)</i><tg xml:lang="rus"><t>цевка (полая трубочка для навивания ниток)</t></tg></mg><mg><tg xml:lang="rus"><t>цевка, плюсна птицы</t></tg></mg></e>
+<e><lg><l pos="N">сепкӓ</l><stg><st>сепкӓ</st></stg><ref>цепкӓ, сепкӓ</ref></lg><mg><i>(ткац.)</i><tg xml:lang="rus"><t>цевка (полая трубочка для навивания ниток)</t></tg></mg><mg><tg xml:lang="rus"><t>цевка, плюсна птицы</t></tg></mg></e>
+<e><lg><l pos="N">цинга</l><stg><st>цинга</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>цынга</t></tg></mg></e>
+<e><lg><l pos="N">цӱцӱ шуды</l><stg><st>цӱцӱ шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чистотел большой</t></tg></mg></e>
+<e><lg><l hid="Hom1">цымыни</l><stg><st>цымыни</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>бурозубка (сем. землеройковых)</t></tg></mg></e>
+<e><lg><l pos="N">цӹвӹвӓрӓш</l><stg><st>цӹвӹвӓрӓш</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ястреб-тетеревятник</t></tg></mg></e>
+<e><lg><l pos="N">цӹвӹгутан</l><stg><st>цӹвӹгутан</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>лишай, короста на чем-л</t></tg></mg></e>
+<e><lg><l pos="N">цӹвӹсӹнзӓ шуды</l><stg><st>цӹвӹсӹнзӓ шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мокрица-звездчатка (однолетнее растение)</t></tg></mg></e>
+<e><lg><l pos="N">цӹгӓк пеледӹш</l><stg><st>цӹгӓк пеледӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>гвоздика (луговая)</t></tg></mg></e>
+<e><lg><l hid="Hom2">цӹлдӹр</l><stg><st>цӹлдӹр</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>свиристель (птица)</t></tg></mg></e>
+<e><lg><l pos="N">цӹрцӹккек</l><stg><st>цӹрцӹккек</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>речной сверчок</t></tg></mg></e>
+<e><lg><l pos="N">чахотка</l><stg><st>чахотка</st></stg><ref>чахотка, чахоткы</ref></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>чахотка</t></tg></mg></e>
+<e><lg><l pos="N">чахоткы</l><stg><st>чахоткы</st></stg><ref>чахотка, чахоткы</ref></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>чахотка</t></tg></mg></e>
+<e><lg><l pos="N">чӓй шуды</l><stg><st>чӓй шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мелисса (душистая трава); зверобой</t></tg></mg></e>
+<e><lg><l pos="N">чӓчкем</l><stg><st>чӓчкем</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>малиновка, зарянка (птица)</t></tg></mg></e>
+<e><lg><l pos="N">чума</l><stg><st>чума</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>чума; чумной</t></tg></mg></e>
+<e><lg><l pos="N">чӹнгшӹ</l><stg><st>чӹнгшӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>зеленый дятел</t></tg></mg></e>
+<e><lg><l pos="N">шавынь шуды</l><stg><st>шавынь шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>грыжник (многолетнее растение семейства гвоздичных с розовыми душистыми цветками)</t></tg></mg></e>
+<e><lg><l pos="N">шайланымаш</l><stg><st>шайланымаш</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>бред, бредовое состояние</t></tg></mg></e>
+<e><lg><l hid="Hom1">шайтан</l><stg><st>шайтан</st></stg></lg><mg><i>(миф.)</i><tg xml:lang="rus"><t>дьявол, черт, шайтан</t></tg></mg></e>
+<e><lg><l hid="Hom2">шайтан</l><stg><st>шайтан</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>улитка, моллюск, голый слизень</t></tg></mg></e>
+<e><lg><l pos="N">шандаш шуды</l><stg><st>шандаш шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>плаун-баранец</t></tg></mg></e>
+<e><lg><l pos="N">шандышуды</l><stg><st>шандышуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пижма, дикая рябинка</t></tg></mg></e>
+<e><lg><l pos="N">шапки понгы</l><stg><st>шапки понгы</st></stg><ref>шапки понгы, шапки калявонгы, шапкивонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подосиновик</t></tg></mg></e>
+<e><lg><l pos="N">шапки калявонгы</l><stg><st>шапки калявонгы</st></stg><ref>шапки понгы, шапки калявонгы, шапкивонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подосиновик</t></tg></mg></e>
+<e><lg><l pos="N">шапкивонгы</l><stg><st>шапкивонгы</st></stg><ref>шапки понгы, шапки калявонгы, шапкивонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подосиновик</t></tg></mg></e>
+<e><lg><l pos="N">шапренгӹ</l><stg><st>шапренгӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>жулан, сорокопут (птица)</t></tg></mg></e>
+<e><lg><l pos="N">шапыгапшангы</l><stg><st>шапыгапшангы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>мокрица (насекомое)</t></tg></mg></e>
+<e><lg><l pos="N">шапы лапштан</l><stg><st>шапы лапштан</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ревень</t></tg></mg></e>
+<e><lg><l pos="N">шаргеньӹ</l><stg><st>шаргеньӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>гнида</t></tg><xg><x>шаргеньӹ веле</x><xt>одни гниды</xt></xg></mg></e>
+<e><lg><l pos="N">шаргеньӹ шуды</l><stg><st>шаргеньӹ шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пастушья сумка</t></tg></mg></e>
+<e><lg><l pos="N">шарды муды</l><stg><st>шарды муды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>голубика</t></tg></mg></e>
+<e><lg><l pos="N">шаягарем лу</l><stg><st>шаягарем лу</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>затылочная кость</t></tg></mg></e>
+<e><lg><l pos="N">шӓкшӓльӹ</l><stg><st>шӓкшӓльӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ящерица</t></tg></mg></e>
+<e><lg><l pos="N">шӓлӓнгӹ</l><stg><st>шӓлӓнгӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>канюк (хищная птица из семейства орлиных)</t></tg></mg></e>
+<e><lg><l pos="N">шӓртньӹ калявонгы</l><stg><st>шӓртньӹ калявонгы</st></stg><ref>шӓртньӹ калявонгы, шӓртнӹгалявонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>моховик красный</t></tg></mg></e>
+<e><lg><l pos="N">шӓртнӹгалявонгы</l><stg><st>шӓртнӹгалявонгы</st></stg><ref>шӓртньӹ калявонгы, шӓртнӹгалявонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>моховик красный</t></tg></mg></e>
+<e><lg><l pos="N">шӓхӓрди</l><stg><st>шӓхӓрди</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>сороконожка</t></tg></mg></e>
+<e><lg><l pos="N">шӓшкӹ</l><stg><st>шӓшкӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>норка</t></tg></mg></e>
+<e><lg><l pos="N">шервач</l><stg><st>шервач</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>шилохвост (птица)</t></tg></mg></e>
+<e><lg><l pos="N">шигол</l><stg><st>шигол</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>сом</t></tg></mg></e>
+<e><lg><l pos="N">шим вулны</l><stg><st>шим вулны</st></stg></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>свинец</t></tg></mg></e>
+<e><lg><l pos="N">шим карак</l><stg><st>шим карак</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>грач</t></tg></mg></e>
+<e><lg><l pos="N">шим крузы</l><stg><st>шим крузы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>свинарь, черный груздь</t></tg></mg></e>
+<e><lg><l pos="N">шим кӹшкӹ</l><stg><st>шим кӹшкӹ</st></stg><ref>шим кӹшкӹ, шимвуянкӹшкӹ</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>гадюка; гадючий</t></tg></mg></e>
+<e><lg><l pos="N">шимвуянкӹшкӹ</l><stg><st>шимвуянкӹшкӹ</st></stg><ref>шим кӹшкӹ, шимвуянкӹшкӹ</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>гадюка; гадючий</t></tg></mg></e>
+<e><lg><l pos="N">шимпач</l><stg><st>шимпач</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>горностай</t></tg></mg></e>
+<e><lg><l pos="N">шим слива</l><stg><st>шим слива</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>терн (терновик)</t></tg></mg></e>
+<e><lg><l pos="N">шим уа</l><stg><st>шим уа</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чернотал</t></tg></mg></e>
+<e><lg><l pos="N">шим шаптыр</l><stg><st>шим шаптыр</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>черная смородина</t></tg></mg></e>
+<e><lg><l pos="N">шим шӓдӓнгӹ</l><stg><st>шим шӓдӓнгӹ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>гречиха</t></tg></mg></e>
+<e><lg><l pos="N">шим ӹнгӹж</l><stg><st>шим ӹнгӹж</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ежевика</t></tg></mg></e>
+<e><lg><l pos="N">шимӹрвӹж</l><stg><st>шимӹрвӹж</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>черно-бурая лиса</t></tg></mg></e>
+<e><lg><l pos="N">шиштӹ</l><stg><st>шиштӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>дятел; дятловый</t></tg></mg></e>
+<e><lg><l pos="N">шодышуды</l><stg><st>шодышуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>полынь горькая</t></tg></mg></e>
+<e><lg><l pos="N">шокшымыж</l><stg><st>шокшымыж</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>горячка, бредовое состояние</t></tg></mg></e>
+<e><lg><l pos="N">шол понгы</l><stg><st>шол понгы</st></stg><ref>шол понгы, шолвонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>вешенка, вишенник</t></tg></mg><mg><tg xml:lang="rus"><t>трутовик чешуйчатый, пестрец</t></tg></mg></e>
+<e><lg><l pos="N">шолвонгы</l><stg><st>шолвонгы</st></stg><ref>шол понгы, шолвонгы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>вешенка, вишенник</t></tg></mg><mg><tg xml:lang="rus"><t>трутовик чешуйчатый, пестрец</t></tg></mg></e>
+<e><lg><l pos="N">шопа</l><stg><st>шопа</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>сопа (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">шоэшадыра</l><stg><st>шоэшадыра</st></stg></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>ветряная оспа</t></tg></mg></e>
+<e><lg><l pos="N">шӧвригӓ</l><stg><st>шӧвригӓ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>севрюга</t></tg></mg></e>
+<e><lg><l pos="N">шӧрвӓ</l><stg><st>шӧрвӓ</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ясень</t></tg></mg></e>
+<e><lg><l pos="N">шӧрвӓ крузы</l><stg><st>шӧрвӓ крузы</st></stg><ref>шӧрвӓ крузы, шӧрвӓгрузы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подгруздь желтый</t></tg></mg></e>
+<e><lg><l pos="N">шӧрвӓгрузы</l><stg><st>шӧрвӓгрузы</st></stg><ref>шӧрвӓ крузы, шӧрвӓгрузы</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подгруздь желтый</t></tg></mg></e>
+<e><lg><l pos="N">шувач</l><stg><st>шувач</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>густера, синец (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">шуды клоп</l><stg><st>шуды клоп</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>лесной клоп</t></tg></mg></e>
+<e><lg><l pos="N">шурнывач</l><stg><st>шурнывач</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>овсянка</t></tg></mg></e>
+<e><lg><l pos="N">шурны писӓн</l><stg><st>шурны писӓн</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>осот полевой</t></tg></mg></e>
+<e><lg><l pos="N">шушкан тымана</l><stg><st>шушкан тымана</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>сплюшка (птица)</t></tg></mg></e>
+<e><lg><l pos="N">шуэр шӹнгӓ</l><stg><st>шуэр шӹнгӓ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>толкун</t></tg></mg></e>
+<e><lg><l pos="N">шӱдӹиӓшшуды</l><stg><st>шӱдӹиӓшшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>алоэ</t></tg></mg></e>
+<e><lg><l pos="N">шӱлӹ</l><stg><st>шӱлӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>еж</t></tg></mg></e>
+<e><lg><l pos="N">шӱм кӧргӹ</l><stg><st>шӱм кӧргӹ</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>внутренности, организм (внутренние органы)</t></tg></mg></e>
+<e><lg><l pos="N">шӱм-мокш</l><stg><st>шӱм-мокш</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>ливер (букв. сердце-печень)</t></tg></mg></e>
+<e><lg><l pos="N">шыргапшангы</l><stg><st>шыргапшангы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>навозник (жук)</t></tg></mg></e>
+<e><lg><l pos="N">шыре</l><stg><st>шыре</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>трутень</t></tg></mg></e>
+<e><lg><l pos="N">шырлачы</l><stg><st>шырлачы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>козодой (птица)</t></tg></mg></e>
+<e><lg><l pos="N">шыршол</l><stg><st>шыршол</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>кишка, кишечник</t></tg></mg></e>
+<e><lg><l pos="N">шӹвӹр шуды</l><stg><st>шӹвӹр шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>трава с полыми стеблями (полевое растение), используется для изготовления веников (голиков), свирелей и т. п</t></tg></mg></e>
+<e><lg><l pos="N">шӹгерлӓшуды</l><stg><st>шӹгерлӓшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чернокорень</t></tg></mg></e>
+<e><lg><l pos="N">шӹгӹль шуды</l><stg><st>шӹгӹль шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>чистотел большой</t></tg></mg></e>
+<e><lg><l pos="N">шӹдӹшуды</l><stg><st>шӹдӹшуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>недотрога, не-тронь-меня, бальзамин</t></tg></mg></e>
+<e><lg><l pos="N">Шӹл куШтым Шуды</l><stg><st>Шӹл куШтым Шуды</st></stg><ref>Шӹл куШтым Шуды, шӹлгуштымшуды, шӹлшуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подорожник</t></tg></mg></e>
+<e><lg><l pos="N">шӹлгуштымшуды</l><stg><st>шӹлгуштымшуды</st></stg><ref>Шӹл куШтым Шуды, шӹлгуштымшуды, шӹлшуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подорожник</t></tg></mg></e>
+<e><lg><l pos="N">шӹлшуды</l><stg><st>шӹлшуды</st></stg><ref>Шӹл куШтым Шуды, шӹлгуштымшуды, шӹлшуды</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>подорожник</t></tg></mg></e>
+<e><lg><l pos="N">шӹльӹвонгы</l><stg><st>шӹльӹвонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>рогатик-рамария золотистая</t></tg></mg></e>
+<e><lg><l pos="N">шӹм ыражан кол</l><stg><st>шӹм ыражан кол</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>минога (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">шӹпкӓн</l><stg><st>шӹпкӓн</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сурепка, сурепица (сорное растение)</t></tg></mg></e>
+<e><lg><l pos="N">шӹргӹ морен</l><stg><st>шӹргӹ морен</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>заяц-беляк</t></tg></mg></e>
+<e><lg><l pos="N">шӹртӹгӹшкӹ</l><stg><st>шӹртӹгӹшкӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>волосатик (водяной червь)</t></tg></mg></e>
+<e><lg><l pos="N">шӹшерӓн писӓн</l><stg><st>шӹшерӓн писӓн</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>осот желтый</t></tg></mg></e>
+<e><lg><l pos="N">шӹшерӓн пыч</l><stg><st>шӹшерӓн пыч</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>тмин</t></tg></mg></e>
+<e><lg><l pos="N">ыдыргапшангы</l><stg><st>ыдыргапшангы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>медведка</t></tg></mg></e>
+<e><lg><l pos="N">ыдыршуды</l><stg><st>ыдыршуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>дурман</t></tg></mg></e>
+<e><lg><l pos="N">ыжарвонгы</l><stg><st>ыжарвонгы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сыроежка зеленая, зеленушка</t></tg></mg></e>
+<e><lg><l pos="N">ыжар шиштӹ</l><stg><st>ыжар шиштӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>дятел зеленый</t></tg></mg></e>
+<e><lg><l pos="N">ынгыр пеледӹш</l><stg><st>ынгыр пеледӹш</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>купальница</t></tg></mg></e>
+<e><lg><l pos="N">ыржала шуды</l><stg><st>ыржала шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>тимофеевка</t></tg></mg></e>
+<e><lg><l pos="N">ыржа пӱкш</l><stg><st>ыржа пӱкш</st></stg><ref>ыржа пӱкш, ыржавӱкш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сорт скороспелых орехов</t></tg></mg></e>
+<e><lg><l pos="N">ыржавӱкш</l><stg><st>ыржавӱкш</st></stg><ref>ыржа пӱкш, ыржавӱкш</ref></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>сорт скороспелых орехов</t></tg></mg></e>
+<e><lg><l pos="N">ышкалушман</l><stg><st>ышкалушман</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>турнепс</t></tg></mg></e>
+<e><lg><l pos="N">ышмавындаш</l><stg><st>ышмавындаш</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>нёбо</t></tg></mg></e>
+<e><lg><l pos="N">ышмадамга</l><stg><st>ышмадамга</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>нёбо</t></tg></mg></e>
+<e><lg><l pos="N">ӹжӹвӹр</l><stg><st>ӹжӹвӹр</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>иволга</t></tg></mg></e>
+<e><lg><l pos="N">ӹлӹкшӹ логер</l><stg><st>ӹлӹкшӹ логер</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>пищевод</t></tg></mg></e>
+<e><lg><l pos="N">ӹляндӓрӹш</l><stg><st>ӹляндӓрӹш</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>живчик, семенное тельце, сперматозоид</t></tg></mg></e>
+<e><lg><l pos="N">ӹрлӹхӓн шуды</l><stg><st>ӹрлӹхӓн шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>кипрей, иван-чай</t></tg></mg></e>
+<e><lg><l pos="N">южвӹд</l><stg><st>южвӹд</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>лимфа; сукровица</t></tg></mg></e>
+<e><lg><l pos="N">юн</l><stg><st>юн</st></stg><ref>юн, юнкол</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>вьюн (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">юнкол</l><stg><st>юнкол</st></stg><ref>юн, юнкол</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>вьюн (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">юрлык вӹтельӹ</l><stg><st>юрлык вӹтельӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>кроншнеп большой</t></tg></mg></e>
+<e><lg><l pos="N">юрмӧр</l><stg><st>юрмӧр</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>спаржа аптечная</t></tg></mg></e>
+<e><lg><l pos="N">яд</l><stg><st>яд</st></stg><ref>яд, яды</ref></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>яд</t></tg></mg></e>
+<e><lg><l pos="N">яды</l><stg><st>яды</st></stg><ref>яд, яды</ref></lg><mg><i>(хим.)</i><tg xml:lang="rus"><t>яд</t></tg></mg></e>
+<e><lg><l pos="N">язва</l><stg><st>язва</st></stg><ref>язва, язвы</ref></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>язва</t></tg></mg></e>
+<e><lg><l pos="N">язвы</l><stg><st>язвы</st></stg><ref>язва, язвы</ref></lg><mg><i>(мед.)</i><tg xml:lang="rus"><t>язва</t></tg></mg></e>
+<e><lg><l pos="N">якшаргаля</l><stg><st>якшаргаля</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>мышь-зерновка; красная полевка</t></tg></mg></e>
+<e><lg><l pos="N">якшарсӹнзӓ</l><stg><st>якшарсӹнзӓ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>сорожка, плотва (рыба)</t></tg></mg></e>
+<e><lg><l pos="N">якшар таракан</l><stg><st>якшар таракан</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>прусак, рыжий таракан</t></tg></mg></e>
+<e><lg><l pos="N">якшар уа</l><stg><st>якшар уа</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>краснотал</t></tg></mg></e>
+<e><lg><l pos="N">якшар ушман</l><stg><st>якшар ушман</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>свекла столовая</t></tg></mg></e>
+<e><lg><l pos="N">якшар шаптыр</l><stg><st>якшар шаптыр</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>красная смородина</t></tg></mg></e>
+<e><lg><l pos="N">якшар ӹнгӹж</l><stg><st>якшар ӹнгӹж</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>красная малина</t></tg></mg></e>
+<e><lg><l pos="N">ял лапа</l><stg><st>ял лапа</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>ступня, стопа</t></tg></mg></e>
+<e><lg><l pos="N">ял мӹшкӹр</l><stg><st>ял мӹшкӹр</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>икры ног</t></tg></mg></e>
+<e><lg><l pos="N">ял пындаш</l><stg><st>ял пындаш</st></stg><ref>ял пындаш, ялвындаш</ref></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>ступня ног, подошва</t></tg></mg></e>
+<e><lg><l pos="N">ялвындаш</l><stg><st>ялвындаш</st></stg><ref>ял пындаш, ялвындаш</ref></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>ступня ног, подошва</t></tg></mg></e>
+<e><lg><l pos="N">ял шӓклякӓ</l><stg><st>ял шӓклякӓ</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>щиколотка</t></tg></mg></e>
+<e><lg><l pos="N">яргавшта</l><stg><st>яргавшта</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>мать-и-мачеха</t></tg></mg></e>
+<e><lg><l pos="N">яхы</l><stg><st>яхы</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>семенная жидкость (человека, животного)</t></tg></mg></e>
+<e><lg><l pos="N">ячылагрузы</l><stg><st>ячылагрузы</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>груздь-скрипица</t></tg></mg></e>
 
 
 </r>
