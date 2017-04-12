@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="mrjrus" xml:lang="mrj">
+<e><lg><l pos="Adv">тӹштӹ</l><stg><st>тӹштӹ</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>там</t></tg></mg></e>
+<e><lg><l pos="Adv">вескӓнӓ</l><stg><st>вескӓнӓ</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>потом, в другой (следующий) раз; в будущем</t></tg></mg></e>
+<e><lg><l hid="Hom3">вик</l><stg><st>вик</st></stg><i>(нареч.)</i></lg><mg><tg xml:lang="rus"><t>вовсе, совсем</t></tg><xg><x>викок ак уж</x><xt>совсем не видит</xt></xg></mg></e>
+<e><lg><l pos="Adv">керек-кынам</l><stg><st>керек-кынам</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>когда угодно, в любое время</t></tg></mg></e>
+<e><lg><l pos="Adv">керек-кыце</l><stg><st>керек-кыце</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>как угодно, любым способом</t></tg></mg></e>
+<e><lg><l pos="Adv">керек-кышты</l><stg><st>керек-кышты</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>где угодно, в любом месте</t></tg></mg></e>
+<e><lg><l pos="Adv">кӱш</l><stg><st>кӱш</st></stg><ref>кӱш, кӱшкӹлӓ</ref><i>(нареч.)</i></lg><mg><tg xml:lang="rus"><t>вверх, наверх, кверху, ввысь</t></tg><xg><x>кӱшкӹлӓ пындашан</x><xt>кверху дном</xt></xg></mg></e>
+<e><lg><l pos="Adv">кӱшкӹлӓ</l><stg><st>кӱшкӹлӓ</st></stg><ref>кӱш, кӱшкӹлӓ</ref><i>(нареч.)</i></lg><mg><tg xml:lang="rus"><t>вверх, наверх, кверху, ввысь</t></tg><xg><x>кӱшкӹлӓ пындашан</x><xt>кверху дном</xt></xg></mg></e>
+<e><lg><l pos="Adv">кынам-гӹнят</l><stg><st>кынам-гӹнят</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>когда-нибудь</t></tg></mg></e>
+<e><lg><l pos="Adv">нигышак(ат)</l><stg><st>нигышак(ат)</st></stg><i>(нареч.)</i></lg><mg><tg xml:lang="rus"><t>нигде, негде</t></tg><xg><x>нигышак(ат) ит шагал</x><xt>нигде не останавливайся</xt></xg></mg></e>
+<e><lg><l pos="Adv">нигышец(ӹн)</l><stg><st>нигышец(ӹн)</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>ниоткуда, неоткуда</t></tg></mg></e>
+<e><lg><l pos="Adv">нигышты</l><stg><st>нигышты</st></stg><ref>нигышты, нигыштат</ref></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>нигде, негде</t></tg></mg></e>
+<e><lg><l pos="Adv">нигыштат</l><stg><st>нигыштат</st></stg><ref>нигышты, нигыштат</ref></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>нигде, негде</t></tg></mg></e>
+<e><lg><l pos="Adv">ныжылт</l><stg><st>ныжылт</st></stg><ref>ныжылт, ныжылтен</ref><i>(нареч.)</i></lg><mg><tg xml:lang="rus"><t>начисто</t></tg><xg><x>ныжылтQQ ӹштӹл кеӓ</x><xt>начисто подметает</xt></xg></mg></e>
+<e><lg><l pos="Adv">ныжылтен</l><stg><st>ныжылтен</st></stg><ref>ныжылт, ныжылтен</ref><i>(нареч.)</i></lg><mg><tg xml:lang="rus"><t>начисто</t></tg><xg><x>ныжылтенQQ ӹштӹл кеӓ</x><xt>начисто подметает</xt></xg></mg></e>
+<e><lg><l pos="Adv">тӹшӓкок</l><stg><st>тӹшӓкок</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>тотчас, быстро</t></tg></mg></e>
+<e><lg><l pos="Adv">тӹшец(ӹн)</l><stg><st>тӹшец(ӹн)</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>оттуда</t></tg></mg></e>
+<e><lg><l pos="Adv">тӹшец-тишец</l><stg><st>тӹшец-тишец</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>и отсюда и оттуда, со всех мест; с разных мест</t></tg></mg></e>
+<e><lg><l pos="Adv">тӹшкӹ-тишкӹ</l><stg><st>тӹшкӹ-тишкӹ</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>туда-сюда, и так и эдак</t></tg></mg></e>
+<e><lg><l pos="Adv">тӹштӓкен</l><stg><st>тӹштӓкен</st></stg></lg><mg><i>(нареч.)</i><tg xml:lang="rus"><t>там, на той стороне</t></tg></mg></e>
+
+</r>
