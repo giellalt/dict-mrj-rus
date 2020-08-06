@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="mrjrus" xml:lang="mrj">
-<e><lg><l pos="CC">а</l><stg><st>а</st></stg></lg><mg><tg xml:lang="rus"><t>а</t></tg><xg><x>тӹнь ӹштет, а тӹдӹ шалга</x><xt>ты делаешь, а он стоит</xt></xg></mg></e>
+<e><lg><l pos="CC">а</l><stg><st>а</st></stg></lg><mg><tg xml:lang="rus"><t>а</t></tg><xg><x>тӹнь ӹштет, а тӹдӹ шалга</x><xt xml:lang="rus">ты делаешь, а он стоит</xt></xg></mg></e>
 </r>

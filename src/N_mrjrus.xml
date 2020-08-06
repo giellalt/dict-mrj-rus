@@ -2,7 +2,7 @@
 <r id="mrjrus" xml:lang="mrj">
 <e><lg><l pos="N">авартыла</l><stg><st>авартыла</st></stg></lg><mg><tg xml:lang="rus"><t>квашеный ситный хлеб</t></tg></mg></e>
 <e><lg><l pos="N">аварцы</l><stg><st>аварцы</st></stg></lg><mg><tg xml:lang="rus"><t>толстый блин из квашеного теста (иногда двухслойный), лепешка</t></tg></mg><mg><tg xml:lang="rus"><t>толстый блин из пресного теста (иногда с вареным картофелем)</t></tg></mg></e>
-<e><lg><l pos="N">аваха</l><stg><st>аваха</st></stg></lg><mg><tg xml:lang="rus"><t>чешуя (орехов, зерен), шелуха</t></tg><xg><x>пӱкш аваха</x><xt>плюска</xt></xg><xg><x>пырса аваха</x><xt>стручок гороха</xt></xg></mg></e>
+<e><lg><l pos="N">аваха</l><stg><st>аваха</st></stg></lg><mg><tg xml:lang="rus"><t>чешуя (орехов, зерен), шелуха</t></tg><xg><x>пӱкш аваха</x><xt xml:lang="rus">плюска</xt></xg><xg><x>пырса аваха</x><xt xml:lang="rus">стручок гороха</xt></xg></mg></e>
 <e><lg><l pos="N">авызи</l><stg><st>авызи</st></stg></lg><mg><tg xml:lang="rus"><t>неряха; неряшливый, нечистоплотный (чаще о человеке)</t></tg></mg></e>
 <e><lg><l pos="N">алавӓрӓш</l><stg><st>алавӓрӓш</st></stg><ref>алавӓрӓш, цӹвӹ вӓрӓш</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ястреб-тетеревятник</t></tg></mg></e>
 <e><lg><l pos="N">цӹвӹ вӓрӓш</l><stg><st>цӹвӹ вӓрӓш</st></stg><ref>алавӓрӓш, цӹвӹ вӓрӓш</ref></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>ястреб-тетеревятник</t></tg></mg></e>
@@ -539,7 +539,7 @@
 <e><lg><l pos="N">шапренгӹ</l><stg><st>шапренгӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>жулан, сорокопут (птица)</t></tg></mg></e>
 <e><lg><l pos="N">шапыгапшангы</l><stg><st>шапыгапшангы</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>мокрица (насекомое)</t></tg></mg></e>
 <e><lg><l pos="N">шапы лапштан</l><stg><st>шапы лапштан</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>ревень</t></tg></mg></e>
-<e><lg><l pos="N">шаргеньӹ</l><stg><st>шаргеньӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>гнида</t></tg><xg><x>шаргеньӹ веле</x><xt>одни гниды</xt></xg></mg></e>
+<e><lg><l pos="N">шаргеньӹ</l><stg><st>шаргеньӹ</st></stg></lg><mg><i>(зоол.)</i><tg xml:lang="rus"><t>гнида</t></tg><xg><x>шаргеньӹ веле</x><xt xml:lang="rus">одни гниды</xt></xg></mg></e>
 <e><lg><l pos="N">шаргеньӹ шуды</l><stg><st>шаргеньӹ шуды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>пастушья сумка</t></tg></mg></e>
 <e><lg><l pos="N">шарды муды</l><stg><st>шарды муды</st></stg></lg><mg><i>(бот.)</i><tg xml:lang="rus"><t>голубика</t></tg></mg></e>
 <e><lg><l pos="N">шаягарем лу</l><stg><st>шаягарем лу</st></stg></lg><mg><i>(анат.)</i><tg xml:lang="rus"><t>затылочная кость</t></tg></mg></e>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="mrjrus" xml:lang="mrj">
-<e><lg><l pos="Interj">а</l><stg><st>а</st></stg></lg><mg><tg xml:lang="rus"><t>а</t></tg><xg><x>а, ӓшӹндӓрӹшӹц ма?</x><xt>а, ты вспомнил?</xt></xg></mg></e>
-<e><lg><l hid="Hom1">йӓ</l><stg><st>йӓ</st></stg></lg><mg><tg xml:lang="rus"><t>ну</t></tg><xg><x>йӓ, кӹньӹлӹмӓ</x><xt>ну, вставай же</xt></xg></mg></e>
+<e><lg><l pos="Interj">а</l><stg><st>а</st></stg></lg><mg><tg xml:lang="rus"><t>а</t></tg><xg><x>а, ӓшӹндӓрӹшӹц ма?</x><xt xml:lang="rus">а, ты вспомнил?</xt></xg></mg></e>
+<e><lg><l hid="Hom1">йӓ</l><stg><st>йӓ</st></stg></lg><mg><tg xml:lang="rus"><t>ну</t></tg><xg><x>йӓ, кӹньӹлӹмӓ</x><xt xml:lang="rus">ну, вставай же</xt></xg></mg></e>
 <e><lg><l hid="Hom2">но</l><stg><st>но</st></stg></lg><mg><tg xml:lang="rus"><t>но! (понукание лошади)</t></tg></mg></e>
 <e><lg><l pos="Interj">пӧчӧк</l><stg><st>пӧчӧк</st></stg></lg><mg><tg xml:lang="rus"><t>употребляется для предупреждения ребенка, чтобы он не поперхнулся</t></tg></mg></e>
-<e><lg><l pos="Interj">ша</l><stg><st>ша</st></stg></lg><mg><tg xml:lang="rus"><t>все, конец</t></tg><xg><x>ша, пӹтӹш, большы уке</x><xt>все, кончилось, больше нет</xt></xg></mg></e>
+<e><lg><l pos="Interj">ша</l><stg><st>ша</st></stg></lg><mg><tg xml:lang="rus"><t>все, конец</t></tg><xg><x>ша, пӹтӹш, большы уке</x><xt xml:lang="rus">все, кончилось, больше нет</xt></xg></mg></e>
 
 </r>

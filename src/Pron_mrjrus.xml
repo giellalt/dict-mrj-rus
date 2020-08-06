@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="mrjrus" xml:lang="mrj">
-<e><lg><l pos="Pron">иктӓжӹ</l><stg><st>иктӓжӹ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>кто-нибудь, кто-либо</t></tg><xg><x>иктӓжӹ палша сӓй</x><xt>кто-нибудь поможет чай</xt></xg></mg></e>
-<e><lg><l pos="Pron">иктӓ-ма</l><stg><st>иктӓ-ма</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>что-нибудь, что-либо</t></tg><xg><x>иктӓ-ма семӹнь</x><xt>как-нибудь</xt></xg></mg></e>
+<e><lg><l pos="Pron">иктӓжӹ</l><stg><st>иктӓжӹ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>кто-нибудь, кто-либо</t></tg><xg><x>иктӓжӹ палша сӓй</x><xt xml:lang="rus">кто-нибудь поможет чай</xt></xg></mg></e>
+<e><lg><l pos="Pron">иктӓ-ма</l><stg><st>иктӓ-ма</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>что-нибудь, что-либо</t></tg><xg><x>иктӓ-ма семӹнь</x><xt xml:lang="rus">как-нибудь</xt></xg></mg></e>
 <e><lg><l pos="Pron">иктӓ-ма-гӹнят</l><stg><st>иктӓ-ма-гӹнят</st></stg></lg><mg><tg xml:lang="rus"><t>что-нибудь, что-либо</t></tg></mg></e>
 <e><lg><l pos="Pron">иктӓт</l><stg><st>иктӓт</st></stg></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>никто, ни один</t></tg></mg></e>
 <e><lg><l pos="Pron">керек-кӱ</l><stg><st>керек-кӱ</st></stg></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>кто угодно, любой</t></tg></mg></e>
-<e><lg><l pos="Pron">керек-ма</l><stg><st>керек-ма</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>что угодно</t></tg><xg><x>керек-ма лижӹ</x><xt>что бы ни случилось</xt></xg></mg></e>
+<e><lg><l pos="Pron">керек-ма</l><stg><st>керек-ма</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>что угодно</t></tg><xg><x>керек-ма лижӹ</x><xt xml:lang="rus">что бы ни случилось</xt></xg></mg></e>
 <e><lg><l pos="Pron">керек-махань</l><stg><st>керек-махань</st></stg></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>какой угодно, любой</t></tg></mg></e>
-<e><lg><l hid="Hom1">кӱ</l><stg><st>кӱ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>кто</t></tg><xg><x>кӱ толеш?</x><xt>кто идет?</xt></xg></mg></e>
+<e><lg><l hid="Hom1">кӱ</l><stg><st>кӱ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>кто</t></tg><xg><x>кӱ толеш?</x><xt xml:lang="rus">кто идет?</xt></xg></mg></e>
 <e><lg><l pos="Pron">кӱ-гӹнят</l><stg><st>кӱ-гӹнят</st></stg></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>кто-то, кое-кто, кто-либо</t></tg></mg></e>
 <e><lg><l pos="Pron">кӱ-шон</l><stg><st>кӱ-шон</st></stg></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>кое-кто, кто попало, кто угодно</t></tg></mg></e>
-<e><lg><l pos="Pron">кыды</l><stg><st>кыды</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>который, что</t></tg><xg><x>эче кыдым попа</x><xt>еще что говорит; не стоит разговора</xt></xg></mg></e>
+<e><lg><l pos="Pron">кыды</l><stg><st>кыды</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>который, что</t></tg><xg><x>эче кыдым попа</x><xt xml:lang="rus">еще что говорит; не стоит разговора</xt></xg></mg></e>
 <e><lg><l pos="Pron">кыдыжы</l><stg><st>кыдыжы</st></stg></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>некоторый, который из них</t></tg></mg></e>
-<e><lg><l pos="Pron">кыды-тидӹ</l><stg><st>кыды-тидӹ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>кое-кто, кое-что</t></tg><xg><x>кыды-тидӹQQ жӹ</x><xt>некоторые</xt></xg></mg></e>
+<e><lg><l pos="Pron">кыды-тидӹ</l><stg><st>кыды-тидӹ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>кое-кто, кое-что</t></tg><xg><x>кыды-тидӹQQ жӹ</x><xt xml:lang="rus">некоторые</xt></xg></mg></e>
 <e><lg><l pos="Pron">мӓмнӓн</l><stg><st>мӓмнӓн</st></stg><ref>мӓмнӓн, мӓнмӓн</ref></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>наш</t></tg></mg></e>
 <e><lg><l pos="Pron">мӓнмӓн</l><stg><st>мӓнмӓн</st></stg><ref>мӓмнӓн, мӓнмӓн</ref></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>наш</t></tg></mg></e>
-<e><lg><l pos="Pron">нигӱ</l><stg><st>нигӱ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>никто</t></tg><xg><x>нигӱм ужделам</x><xt>никого я не видел</xt></xg></mg></e>
+<e><lg><l pos="Pron">нигӱ</l><stg><st>нигӱ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>никто</t></tg><xg><x>нигӱм ужделам</x><xt xml:lang="rus">никого я не видел</xt></xg></mg></e>
 <e><lg><l pos="Pron">нигыды</l><stg><st>нигыды</st></stg></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>никто</t></tg></mg></e>
 <e><lg><l pos="Pron">нинӹ</l><stg><st>нинӹ</st></stg></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>эти, они</t></tg></mg></e>
 <e><lg><l pos="Pron">нӹнӹ</l><stg><st>нӹнӹ</st></stg></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>те, они</t></tg></mg></e>
-<e><lg><l hid="Hom1">тӓ</l><stg><st>тӓ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>вы</t></tg><xg><x>тӓ толында</x><xt>вы пришли</xt></xg></mg></e>
-<e><lg><l hid="Hom1">ти</l><stg><st>ти</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>этот</t></tg><xg><x>ти выртышты</x><xt>в этот момент</xt></xg></mg></e>
+<e><lg><l hid="Hom1">тӓ</l><stg><st>тӓ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>вы</t></tg><xg><x>тӓ толында</x><xt xml:lang="rus">вы пришли</xt></xg></mg></e>
+<e><lg><l hid="Hom1">ти</l><stg><st>ти</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>этот</t></tg><xg><x>ти выртышты</x><xt xml:lang="rus">в этот момент</xt></xg></mg></e>
 <e><lg><l pos="Pron">тидӹ</l><stg><st>тидӹ</st></stg></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>этот</t></tg></mg></e>
-<e><lg><l pos="Pron">тӹ</l><stg><st>тӹ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>тот; те</t></tg><xg><x>тӹ эдемвлӓ</x><xt>те люди</xt></xg></mg></e>
+<e><lg><l pos="Pron">тӹ</l><stg><st>тӹ</st></stg><i>(местоим.)</i></lg><mg><tg xml:lang="rus"><t>тот; те</t></tg><xg><x>тӹ эдемвлӓ</x><xt xml:lang="rus">те люди</xt></xg></mg></e>
 <e><lg><l pos="Pron">тӹхень</l><stg><st>тӹхень</st></stg><ref>тӹхень, тӹгень</ref></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>такой, таков</t></tg></mg></e>
 <e><lg><l pos="Pron">тӹгень</l><stg><st>тӹгень</st></stg><ref>тӹхень, тӹгень</ref></lg><mg><i>(местоим.)</i><tg xml:lang="rus"><t>такой, таков</t></tg></mg></e>
-<e><lg><l pos="Pron">ӹшкӹлӓн</l><stg><st>ӹшкӹлӓн</st></stg><ref>ӹшкӹлӓн, ӹшлӓн</ref></lg><mg><tg xml:lang="rus"><t>себе; самому себе</t></tg><xg><x>ӹшкӹлӓнжӹ корным пачеш</x><xt>себе дорогу пробивает</xt></xg><xg><x>ӹшкӹлӓн изиш</x><xt>и себя не надо забывать</xt></xg></mg></e>
-<e><lg><l pos="Pron">ӹшлӓн</l><stg><st>ӹшлӓн</st></stg><ref>ӹшкӹлӓн, ӹшлӓн</ref></lg><mg><tg xml:lang="rus"><t>себе; самому себе</t></tg><xg><x>ӹшлӓнжӹ корным пачеш</x><xt>себе дорогу пробивает</xt></xg><xg><x>ӹшлӓн изиш</x><xt>и себя не надо забывать</xt></xg></mg></e>
+<e><lg><l pos="Pron">ӹшкӹлӓн</l><stg><st>ӹшкӹлӓн</st></stg><ref>ӹшкӹлӓн, ӹшлӓн</ref></lg><mg><tg xml:lang="rus"><t>себе; самому себе</t></tg><xg><x>ӹшкӹлӓнжӹ корным пачеш</x><xt xml:lang="rus">себе дорогу пробивает</xt></xg><xg><x>ӹшкӹлӓн изиш</x><xt xml:lang="rus">и себя не надо забывать</xt></xg></mg></e>
+<e><lg><l pos="Pron">ӹшлӓн</l><stg><st>ӹшлӓн</st></stg><ref>ӹшкӹлӓн, ӹшлӓн</ref></lg><mg><tg xml:lang="rus"><t>себе; самому себе</t></tg><xg><x>ӹшлӓнжӹ корным пачеш</x><xt xml:lang="rus">себе дорогу пробивает</xt></xg><xg><x>ӹшлӓн изиш</x><xt xml:lang="rus">и себя не надо забывать</xt></xg></mg></e>
 <e><lg><l pos="Pron">ӹшкӹмдӓм</l><stg><st>ӹшкӹмдӓм</st></stg></lg><mg><tg xml:lang="rus"><t>вас самих; вы себя</t></tg></mg></e>
 <e><lg><l pos="Pron">ӹшкӹмдӓн</l><stg><st>ӹшкӹмдӓн</st></stg></lg><mg><tg xml:lang="rus"><t>у вас самих; ваш</t></tg></mg></e>
 <e><lg><l pos="Pron">ӹшкӹмемӹн</l><stg><st>ӹшкӹмемӹн</st></stg></lg><mg><tg xml:lang="rus"><t>свой, мой</t></tg></mg></e>
 <e><lg><l pos="Pron">ӹшкӹметӹм</l><stg><st>ӹшкӹметӹм</st></stg></lg><mg><tg xml:lang="rus"><t>тебя самого; ты себя; сам себя</t></tg></mg></e>
 <e><lg><l pos="Pron">ӹшкӹметӹн</l><stg><st>ӹшкӹметӹн</st></stg></lg><mg><tg xml:lang="rus"><t>твой, свой</t></tg></mg></e>
-<e><lg><l pos="Pron">ӹшкӹмжӹм</l><stg><st>ӹшкӹмжӹм</st></stg></lg><mg><tg xml:lang="rus"><t>его самого; он себя</t></tg><xg><x>ӹшкӹмжӹмӹшке качкеш</x><xt>больной, живет за счет запасов своего организма</xt></xg></mg></e>
-<e><lg><l pos="Pron">ӹшкӹмжӹн</l><stg><st>ӹшкӹмжӹн</st></stg></lg><mg><tg xml:lang="rus"><t>его (личный), свой</t></tg><xg><x>ӹшкӹмжӹн пӧртшӹ</x><xt>свой дом (его личный, собственный)</xt></xg></mg></e>
+<e><lg><l pos="Pron">ӹшкӹмжӹм</l><stg><st>ӹшкӹмжӹм</st></stg></lg><mg><tg xml:lang="rus"><t>его самого; он себя</t></tg><xg><x>ӹшкӹмжӹмӹшке качкеш</x><xt xml:lang="rus">больной, живет за счет запасов своего организма</xt></xg></mg></e>
+<e><lg><l pos="Pron">ӹшкӹмжӹн</l><stg><st>ӹшкӹмжӹн</st></stg></lg><mg><tg xml:lang="rus"><t>его (личный), свой</t></tg><xg><x>ӹшкӹмжӹн пӧртшӹ</x><xt xml:lang="rus">свой дом (его личный, собственный)</xt></xg></mg></e>
 <e><lg><l pos="Pron">ӹшкӹмнӓм</l><stg><st>ӹшкӹмнӓм</st></stg></lg><mg><tg xml:lang="rus"><t>нас самих; мы себя</t></tg></mg></e>
 <e><lg><l pos="Pron">ӹшкӹмнӓн</l><stg><st>ӹшкӹмнӓн</st></stg></lg><mg><tg xml:lang="rus"><t>наш, свой</t></tg></mg></e>
 <e><lg><l pos="Pron">ӹшкӹмӹм</l><stg><st>ӹшкӹмӹм</st></stg></lg><mg><tg xml:lang="rus"><t>меня, самого; я себя</t></tg></mg></e>
